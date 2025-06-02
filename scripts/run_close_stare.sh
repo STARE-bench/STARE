@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export OPENAI_API_KEY=sk
+export OPENAI_API_KEY=
 
 LOG_DIR="/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/logs"
 mkdir -p "$LOG_DIR"
