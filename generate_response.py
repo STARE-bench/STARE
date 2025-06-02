@@ -32,10 +32,25 @@ def main():
     # Load Dataset
     logging.info(f"Loading dataset {args.dataset_name}, subject: {args.subject}")
     sub_dataset_list = []
-    for subj in args.subject:
-        sub_dataset = load_dataset(args.dataset_name, subj, split=args.split)
-        sub_dataset_list.append(sub_dataset)
-    dataset = concatenate_datasets(sub_dataset_list)
+    # for subj in args.subject:
+    #     sub_dataset = load_dataset(args.dataset_name, subj, split=args.split)
+    #     sub_dataset_list.append(sub_dataset)
+    # dataset = concatenate_datasets(sub_dataset_list)
+
+    if args.dataset_name.endswith(".jsonl") and os.path.isfile(args.dataset_name):
+        logging.info(f"Loading local JSONL file: {args.dataset_name}")
+        dataset = []
+        with open(args.dataset_name, 'r') as f:
+            for line in f:
+                if line.strip():
+                    item = json.loads(line)
+                    if item.get('category') in args.subject:
+                        dataset.append(item)
+    else:
+        for subj in args.subject:
+            sub_dataset = load_dataset(args.dataset_name, subj, split=args.split)
+            sub_dataset_list.append(sub_dataset)
+        dataset = concatenate_datasets(sub_dataset_list)
 
     # Load Config
     logging.info(f"Loading config")
@@ -107,14 +122,14 @@ def main():
 
     logging.info(f"Starting to generate.....")
     for idx, sample in enumerate(tqdm(dataset)):
-        pid = sample['pid']
+        pid = sample['qid']
         if skip_pids and pid in skip_pids:
             continue
 
         sample = build_query(sample, config, args.strategy)
         problem: dict = sample.copy()
-        for i in range(1, 6):
-            problem.pop('image_' + str(i))
+        # for i in range(1, 6):
+        #     problem.pop('image_' + str(i))
 
         try:
             response = model.get_response(sample)

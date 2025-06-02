@@ -9,6 +9,9 @@ import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 
 
+IMAGE_ROOT = "/mnt/petrelfs/gujiawei/stare_bench/release_stare/"
+
+
 def encode_image_to_base64(image):
     buffered = BytesIO()
     image.save(buffered, format="PNG")
@@ -18,25 +21,36 @@ def encode_image_to_base64(image):
 def create_message(sample):
     query = sample['query']
     all_contents = []
-    matches = re.findall(r"<(image_\d+)>", query)
-    split_text = re.split(r"<image_\d+>", query)
+
+    # 按 <image> 分割文本
+    split_text = re.split(r"<image>", query)
+
     for i, fragment in enumerate(split_text):
         if fragment.strip():
-            all_contents.extend([
-                {"type": "text", "text": fragment}
-            ])
-        if i < len(matches):
-            if sample[matches[i]]:
-                img_base64 = encode_image_to_base64(sample[matches[i]])
-                all_contents.extend([
-                    {
-                        "type": "image",
-                        "image": f"data:image/png;base64,{img_base64}"
+            all_contents.append({"type": "text", "text": fragment})
+
+        # 插入图像（如果有）
+        if i < len(sample['images']):
+            image_entry = sample['images'][i]
+            try:
+                if isinstance(image_entry, str):
+                    image_path = os.path.join(IMAGE_ROOT, image_entry)
+                    image = Image.open(image_path).convert("RGB")
+                elif isinstance(image_entry, Image.Image):
+                    image = image_entry
+                else:
+                    raise ValueError(f"Unsupported image type: {type(image_entry)}")
+
+                img_base64 = encode_image_to_base64(image)
+                all_contents.append({
+                    "type": "image_url",
+                    "image_url": {
+                        "url": f"data:image/png;base64,{img_base64}"
                     }
-                ])
-            else:
-                logging.error(
-                    f"The image token {matches[i]} is in the query, but there is no corresponding image provided by the data")
+                })
+
+            except Exception as e:
+                logging.error(f"❌ Failed to load/encode image at index {i}: {e}")
 
     messages = [
         {
@@ -45,6 +59,7 @@ def create_message(sample):
         }
     ]
     return messages
+
 
 class Qwen_Model:
     def __init__(

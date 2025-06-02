@@ -1,0 +1,76 @@
+[root] Loading dataset /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl, subject: ['2D_text_instruct_VSim']
+[root] Loading local JSONL file: /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl
+[root] Loading config
+[root] Loading chatgpt-4o-latest
+[root] Model loaded!
+[root] Results already exists.
+[root] Reading /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/results/stare_gpt4o_direct.jsonl
+[root] Found existing results file with 3 problems with valid responses. Skipping these problems...
+[root] Starting to generate.....
+  0%|          | 0/219 [00:00<?, ?it/s]  2%|▏         | 4/219 [00:03<03:23,  1.06it/s]  2%|▏         | 5/219 [00:06<04:42,  1.32s/it]  3%|▎         | 6/219 [00:08<05:57,  1.68s/it]  3%|▎         | 7/219 [00:10<06:26,  1.82s/it]  4%|▎         | 8/219 [00:13<06:53,  1.96s/it]  4%|▍         | 9/219 [00:16<07:45,  2.22s/it]  5%|▍         | 10/219 [00:18<07:58,  2.29s/it][root] Save results to /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/results/stare_gpt4o_direct.jsonl
+  5%|▌         | 11/219 [00:20<07:29,  2.16s/it]  5%|▌         | 12/219 [00:21<06:49,  1.98s/it]  6%|▌         | 13/219 [00:24<07:26,  2.17s/it]  6%|▋         | 14/219 [00:26<07:35,  2.22s/it]  6%|▋         | 14/219 [00:28<07:03,  2.07s/it]
+Traceback (most recent call last):
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 190, in <module>
+    main()
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 135, in main
+    response = model.get_response(sample)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/models/gpt.py", line 116, in get_response
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/openai/_utils/_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/openai/resources/chat/completions/completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/openai/_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/openai/_base_client.py", line 969, in request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpx/_client.py", line 1015, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpx/_transports/default.py", line 233, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 268, in handle_request
+    raise exc
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 251, in handle_request
+    response = connection.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/http_proxy.py", line 344, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/http11.py", line 133, in handle_request
+    raise exc
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/http11.py", line 111, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/http11.py", line 176, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_sync/http11.py", line 212, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 126, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/ssl.py", line 1232, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/ssl.py", line 1105, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

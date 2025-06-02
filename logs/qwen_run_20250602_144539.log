@@ -1,0 +1,34 @@
+phoenix-srun: job 5085082 queued and waiting for resources
+phoenix-srun: job 5085082 has been allocated resources
+phoenix-srun: Job 5085082 scheduled successfully!
+Current QUOTA_TYPE is [reserved], which means the job has occupied quota in RESERVED_TOTAL under your partition.
+Current PHX_PRIORITY is normal
+
+[root] Loading dataset /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl, subject: ['2D_text_instruct_VSim']
+[root] Loading local JSONL file: /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl
+[root] Loading config
+[root] Loading local model /mnt/petrelfs/share_data/songmingyang/model/mm/Qwen2.5-VL-3B-Instruct
+[qwen_vl_utils.vision_process] set VIDEO_TOTAL_PIXELS: 90316800
+You are using a model of type qwen2_5_vl to instantiate a model of type qwen2_vl. This is not supported for all configurations of models and can yield errors.
+Traceback (most recent call last):
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 184, in <module>
+    main()
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 69, in main
+    model = qwen.Qwen_Model(args.model_path, temperature=args.temperature, max_tokens=args.max_tokens)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/models/qwen.py", line 74, in __init__
+    self.model = Qwen2VLForConditionalGeneration.from_pretrained(self.model_path, torch_dtype=torch.bfloat16,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/transformers/modeling_utils.py", line 279, in _wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/transformers/modeling_utils.py", line 4336, in from_pretrained
+    config = cls._autoset_attn_implementation(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/transformers/modeling_utils.py", line 2109, in _autoset_attn_implementation
+    cls._check_and_enable_flash_attn_2(
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/l2s/lib/python3.12/site-packages/transformers/modeling_utils.py", line 2252, in _check_and_enable_flash_attn_2
+    raise ImportError(f"{preface} the package flash_attn seems to be not installed. {install_message}")
+ImportError: FlashAttention2 has been toggled on, but it cannot be used due to the following error: the package flash_attn seems to be not installed. Please refer to the documentation of https://huggingface.co/docs/transformers/perf_infer_gpu_one#flashattention-2 to install Flash Attention 2.
+phoenix-srun: error: SH-IDCA1404-10-140-54-106: task 0: Exited with exit code 1
+phoenix-srun: launch/slurm: _step_signal: Terminating StepId=5085082.0
