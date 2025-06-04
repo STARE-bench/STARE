@@ -1,6 +1,6 @@
 #!/bin/bash
  python generate_response.py \
- --dataset_name '/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl' \
+ --dataset_name 'kuvvi/STARE' \
  --split 'test' \
  --category '2D_text_instruct_VSim' \
  --config_path 'configs/gpt.yaml' \

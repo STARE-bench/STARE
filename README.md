@@ -37,7 +37,7 @@ The dataset is provided in jsonl format and contains the following attributes:
 
 ```
 {
-    "pid": [string] Problem ID, e.g., “math_1”,
+    "pid": [string] Problem ID, e.g., “2d_va_vsim_001”,
     "question": [string] The question text,
     "answer": [string] The correct answer for the problem,
     "images": [list] , The images that problem needs.
@@ -88,4 +88,16 @@ Close-source Model:
  --max_tokens 4096 \
  --temperature 0 \
  --save_every 20
+```
+
+### Score Calculation
+
+Finally, execute `python evaluation/calculate_acc.py` to calculate the final score based on the evaluation results. 
+This step will compute overall accuracy as well as accuracy for each subject, category, and tasks.
+
+## 📝Citation
+
+If you find our benchmark useful in your research, please consider citing this BibTex:
+
+```
 ```
