@@ -1,4 +1,21 @@
 
+# STARE: Evaluating Multimodal Models on Visual Simulations
+
+<div align="center" style="font-family: Arial, sans-serif;">
+  <p>
+    <a href="https://stare-bench.github.io/" style="text-decoration: none; font-weight: bold;">🌻 Homepage</a> •
+    <a href="https://huggingface.co/STARE-VisSim/" style="text-decoration: none; font-weight: bold;">🤗 Data</a> 
+  </p>
+</div>
+
+
+<p align="center" width="80%">
+  <img src="./images/stare_overview.png" width="80%" height="70%">
+</p>
+<p align="center" style="font-size: 14px; color: gray;">
+  <em>An overview of our <b>STARE</b>. </em>
+</p>
+
 ### Data Format
 
 The dataset is provided in jsonl format and contains the following attributes:
@@ -12,6 +29,13 @@ The dataset is provided in jsonl format and contains the following attributes:
     "other_info": [string] Additional information about this question，
     "category": [string] The category of the problem, e.g., “2D_text_instruction”,
 }
+```
+
+## Requirements
+```bash
+git clone https://github.com/Kuvvius/stare_open
+cd stare_open
+git install -e .
 ```
 
 ## 📈 Evaluation
