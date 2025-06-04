@@ -1,5 +1,7 @@
 
-# STARE: Evaluating Multimodal Models on Visual Simulations
+# <img src="./images/stare_name.png" alt="STARE" /><br/>
+Evaluating Multimodal Models on Visual Simulations
+
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
@@ -10,7 +12,7 @@
 
 
 <p align="center" width="80%">
-  <img src="./images/stare_overview.png" width="80%" height="70%">
+  <img src="./images/overview.png" width="80%" height="70%">
 </p>
 <p align="center" style="font-size: 14px; color: gray;">
   <em>An overview of our <b>STARE</b>. </em>
