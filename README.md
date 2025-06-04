@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="./images/stare_name.png" alt="STARE" width="200" />
+</p>
 
-# <img src="./images/stare_name.png" alt="STARE" /><br/>
-Evaluating Multimodal Models on Visual Simulations
+<h1 align="center">Evaluating Multimodal Models on Visual Simulations</h1>
 
 
 <div align="center" style="font-family: Arial, sans-serif;">
