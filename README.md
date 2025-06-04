@@ -2,8 +2,12 @@
   <img src="./images/stare_name.png" alt="STARE" width="300" />
 </p>
 
-<h1 align="center">Evaluating Multimodal Models on Visual Simulations</h1>
+<p align="center">
+  <img src="./images/stare_name.png" alt="STARE" width="300" />
+</p>
 
+<h2 align="center">Unfolding Spatial Cognition:</h2>
+<h1 align="center">Evaluating Multimodal Models on Visual Simulations</h1>
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
