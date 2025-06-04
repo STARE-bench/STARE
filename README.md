@@ -48,8 +48,8 @@ The dataset is provided in jsonl format and contains the following attributes:
 
 ## Requirements
 ```bash
-git clone https://github.com/Kuvvius/stare_open
-cd stare_open
+git clone https://github.com/STARE-bench/STARE.git
+cd STARE
 git install -e .
 ```
 
