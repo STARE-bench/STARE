@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/stare_name.png" alt="STARE" width="200" />
+  <img src="./images/stare_name.png" alt="STARE" width="300" />
 </p>
 
 <h1 align="center">Evaluating Multimodal Models on Visual Simulations</h1>
@@ -7,8 +7,8 @@
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="https://stare-bench.github.io/" style="text-decoration: none; font-weight: bold;">🌻 Homepage</a> •
-    <a href="https://huggingface.co/STARE-VisSim/" style="text-decoration: none; font-weight: bold;">🤗 Data</a> 
+    <a href="https://stare-bench.github.io/" style="text-decoration: none; font-weight: bold;">[📖 ArXiv Paper]</a> •
+    <a href="https://huggingface.co/datasets/kuvvi/STARE" style="text-decoration: none; font-weight: bold;"> [🤗 Data]</a> 
   </p>
 </div>
 
