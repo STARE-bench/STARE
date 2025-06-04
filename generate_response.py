@@ -10,7 +10,7 @@ from data_utils import load_yaml, verify_response, build_query
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset_name', type=str, default='luckychao/EMMA')
+    parser.add_argument('--dataset_name', type=str, default='kuvvi/STARE')
     parser.add_argument('--category', nargs='+', type=str, required=True)
     parser.add_argument('--split', type=str, default='test')
     parser.add_argument('--strategy', type=str, default='CoT', choices=['CoT', 'Direct'])

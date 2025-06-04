@@ -20,6 +20,17 @@
   <em>An overview of our <b>STARE</b>. </em>
 </p>
 
+
+You can download both two datasets by the following command (Taking downloading math data as an example):
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("kuvvi/STARE", "folding_nets", split="test")
+```
+
+
+
 ### Data Format
 
 The dataset is provided in jsonl format and contains the following attributes:
@@ -47,3 +58,34 @@ git install -e .
 ### Responses Generation
 Our repository supports the evaluation of open source models such as Qwen2-VL, InternVL, LLaVA, and closed source models such as GPT, Gemini, Claude, etc. 
 You can generate responses of these models by using the following commands:
+
+Open-source Model:
+```
+ python generate_response.py \
+ --dataset_name 'kuvvi/STARE' \
+ --split 'test' \
+ --category '2D_text_instruct_VSim' \
+ --strategy 'CoT' \
+ --config_path 'configs/gpt.yaml' \
+ --model_path 'path_to_your_local_model' \
+ --output_path 'path_to_output_json_file' \
+ --max_tokens 4096 \
+ --temperature 0.7 \
+ --save_every 20
+```
+
+Close-source Model:
+
+```
+ python generate_response.py \
+ --dataset_name 'kuvvi/STARE' \
+ --split 'test' \
+ --category '2D_text_instruct_VSim' \
+ --config_path 'configs/gpt.yaml' \
+ --model 'remote-model-name' \
+ --api_key '' \
+ --output_path 'path_to_output_file_name.json' \
+ --max_tokens 4096 \
+ --temperature 0 \
+ --save_every 20
+```
