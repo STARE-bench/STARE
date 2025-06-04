@@ -20,8 +20,7 @@
   <em>An overview of our <b>STARE</b>. </em>
 </p>
 
-## 💥 News 
-- **[2025.6.6]** Our paper is now accessible at https://arxiv.org/abs/xxxx.
+
 
 ## 😳 STARE: Unfolding Spatial Cognition
 STARE is structured to comprehensively cover spatial reasoning at multiple complexity levels, from basic geometric transformations (2D and 3D) to more integrated tasks (cube net folding and tangram puzzles) and real-world spatial reasoning scenarios (temporal frame and perspective reasoning). Each task is presented as a multiple-choice or yes/no question using carefully designed visual and textual prompts. In total, the dataset contains about 4K instances across different evaluation setups.
