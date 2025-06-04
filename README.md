@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./images/stare_name.png" alt="STARE" width="300" />
 </p>
-
 <h1 align="center">
   Evaluating Multimodal Models on Visual Simulations
 </h1>
@@ -24,7 +23,7 @@
 ## 💥 News 
 - **[2025.6.6]** Our paper is now accessible at https://arxiv.org/abs/xxxx.
 
-## STARE: Unfolding Spatial Cognition
+## 😳 STARE: Unfolding Spatial Cognition
 <p align="center">
     <img src="images/vissim.png" width="90%"> <br>
   <b>Visual simulation of a cube net folding task reveals the challenges of spatial reasoning.</b> 
