@@ -24,12 +24,11 @@
 - **[2025.6.6]** Our paper is now accessible at https://arxiv.org/abs/xxxx.
 
 ## 😳 STARE: Unfolding Spatial Cognition
+STARE is structured to comprehensively cover spatial reasoning at multiple complexity levels, from basic geometric transformations (2D and 3D) to more integrated tasks (cube net folding and tangram puzzles) and real-world spatial reasoning scenarios (temporal frame and perspective reasoning). Each task is presented as a multiple-choice or yes/no question using carefully designed visual and textual prompts. In total, the dataset contains about 4K instances across different evaluation setups.
 <p align="center">
     <img src="images/vissim.png" width="90%"> <br>
   <b>Visual simulation of a cube net folding task reveals the challenges of spatial reasoning.</b> 
 </p>
-STARE is structured to comprehensively cover spatial reasoning at multiple complexity levels, from basic geometric transformations (2D and 3D) to more integrated tasks (cube net folding and tangram puzzles) and real-world spatial reasoning scenarios (temporal frame and perspective reasoning). Each task is presented as a multiple-choice or yes/no question using carefully designed visual and textual prompts. In total, the dataset contains about 4K instances across different evaluation setups.
-
 Models exhibit significant variation in spatial reasoning performance across STARE tasks. Accuracy is highest on simple 2D transformations (up to 87.7%) but drops substantially for 3D tasks and multi-step reasoning (e.g., cube nets, tangrams), often nearing chance. Visual simulations generally improve performance, though inconsistently across models. The reasoning-optimized o1 model performs best overall with VisSim, yet still lags behind humans. Human participants consistently outperform models, confirming the complexity of STARE tasks.
 
 
