@@ -1,0 +1,3470 @@
+{
+  "2d_va_vsim_001": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_001",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_001_a.png",
+      "images/2d_va_vsim_001_b.png",
+      "images/2d_va_vsim_001_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_81",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_002": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_002",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_002_a.png",
+      "images/2d_va_vsim_002_b.png",
+      "images/2d_va_vsim_002_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_14",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_003": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_003",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_003_a.png",
+      "images/2d_va_vsim_003_b.png",
+      "images/2d_va_vsim_003_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_94",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_004": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_004",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_004_a.png",
+      "images/2d_va_vsim_004_b.png",
+      "images/2d_va_vsim_004_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_17",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_005": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_005",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_005_a.png",
+      "images/2d_va_vsim_005_b.png",
+      "images/2d_va_vsim_005_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_116",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_006": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_006",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_006_a.png",
+      "images/2d_va_vsim_006_b.png",
+      "images/2d_va_vsim_006_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_13",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_007": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_007",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_007_a.png",
+      "images/2d_va_vsim_007_b.png",
+      "images/2d_va_vsim_007_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_86",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_008": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_008",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_008_a.png",
+      "images/2d_va_vsim_008_b.png",
+      "images/2d_va_vsim_008_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_111",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_009": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_009",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_009_a.png",
+      "images/2d_va_vsim_009_b.png",
+      "images/2d_va_vsim_009_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_69",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_010": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_010",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_010_a.png",
+      "images/2d_va_vsim_010_b.png",
+      "images/2d_va_vsim_010_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_11",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_011": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_011",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_011_a.png",
+      "images/2d_va_vsim_011_b.png",
+      "images/2d_va_vsim_011_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_75",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_012": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_012",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_012_a.png",
+      "images/2d_va_vsim_012_b.png",
+      "images/2d_va_vsim_012_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_54",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_013": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_013",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_013_a.png",
+      "images/2d_va_vsim_013_b.png",
+      "images/2d_va_vsim_013_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_117",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_014": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_014",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_014_a.png",
+      "images/2d_va_vsim_014_b.png",
+      "images/2d_va_vsim_014_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_27",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_015": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_015",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_015_a.png",
+      "images/2d_va_vsim_015_b.png",
+      "images/2d_va_vsim_015_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_29",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_016": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_016",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_016_a.png",
+      "images/2d_va_vsim_016_b.png",
+      "images/2d_va_vsim_016_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_64",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_017": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_017",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_017_a.png",
+      "images/2d_va_vsim_017_b.png",
+      "images/2d_va_vsim_017_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_102",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_018": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_018",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_018_a.png",
+      "images/2d_va_vsim_018_b.png",
+      "images/2d_va_vsim_018_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_71",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_019": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_019",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_019_a.png",
+      "images/2d_va_vsim_019_b.png",
+      "images/2d_va_vsim_019_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_25",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_020": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_020",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_020_a.png",
+      "images/2d_va_vsim_020_b.png",
+      "images/2d_va_vsim_020_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_91",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_021": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_021",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_021_a.png",
+      "images/2d_va_vsim_021_b.png",
+      "images/2d_va_vsim_021_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_83",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_022": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_022",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_022_a.png",
+      "images/2d_va_vsim_022_b.png",
+      "images/2d_va_vsim_022_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_89",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_023": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_023",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_023_a.png",
+      "images/2d_va_vsim_023_b.png",
+      "images/2d_va_vsim_023_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_107",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_024": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_024",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_024_a.png",
+      "images/2d_va_vsim_024_b.png",
+      "images/2d_va_vsim_024_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_113",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_025": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_025",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_025_a.png",
+      "images/2d_va_vsim_025_b.png",
+      "images/2d_va_vsim_025_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_57",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_026": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_026",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_026_a.png",
+      "images/2d_va_vsim_026_b.png",
+      "images/2d_va_vsim_026_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_105",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_027": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_027",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_027_a.png",
+      "images/2d_va_vsim_027_b.png",
+      "images/2d_va_vsim_027_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_115",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_028": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_028",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_028_a.png",
+      "images/2d_va_vsim_028_b.png",
+      "images/2d_va_vsim_028_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_easy_all_0",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_029": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_029",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_029_a.png",
+      "images/2d_va_vsim_029_b.png",
+      "images/2d_va_vsim_029_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_104",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_030": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_030",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_030_a.png",
+      "images/2d_va_vsim_030_b.png",
+      "images/2d_va_vsim_030_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_43",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_031": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_031",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_031_a.png",
+      "images/2d_va_vsim_031_b.png",
+      "images/2d_va_vsim_031_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_easy_all_85",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_032": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_032",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_032_a.png",
+      "images/2d_va_vsim_032_b.png",
+      "images/2d_va_vsim_032_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_easy_all_100",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_033": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_033",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_033_a.png",
+      "images/2d_va_vsim_033_b.png",
+      "images/2d_va_vsim_033_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_119",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_034": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_034",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_034_a.png",
+      "images/2d_va_vsim_034_b.png",
+      "images/2d_va_vsim_034_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_easy_all_101",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_035": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_035",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_035_a.png",
+      "images/2d_va_vsim_035_b.png",
+      "images/2d_va_vsim_035_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_8",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_036": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_036",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_036_a.png",
+      "images/2d_va_vsim_036_b.png",
+      "images/2d_va_vsim_036_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_5",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_037": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_037",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_037_a.png",
+      "images/2d_va_vsim_037_b.png",
+      "images/2d_va_vsim_037_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_29",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_038": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_038",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_038_a.png",
+      "images/2d_va_vsim_038_b.png",
+      "images/2d_va_vsim_038_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_98",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_039": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_039",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_039_a.png",
+      "images/2d_va_vsim_039_b.png",
+      "images/2d_va_vsim_039_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_37",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_040": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_040",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_040_a.png",
+      "images/2d_va_vsim_040_b.png",
+      "images/2d_va_vsim_040_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_10",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_041": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_041",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_041_a.png",
+      "images/2d_va_vsim_041_b.png",
+      "images/2d_va_vsim_041_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_12",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_042": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_042",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_042_a.png",
+      "images/2d_va_vsim_042_b.png",
+      "images/2d_va_vsim_042_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_48",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_043": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_043",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_043_a.png",
+      "images/2d_va_vsim_043_b.png",
+      "images/2d_va_vsim_043_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_58",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_044": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_044",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_044_a.png",
+      "images/2d_va_vsim_044_b.png",
+      "images/2d_va_vsim_044_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_81",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_045": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_045",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_045_a.png",
+      "images/2d_va_vsim_045_b.png",
+      "images/2d_va_vsim_045_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_46",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_046": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_046",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_046_a.png",
+      "images/2d_va_vsim_046_b.png",
+      "images/2d_va_vsim_046_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_47",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_047": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_047",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_047_a.png",
+      "images/2d_va_vsim_047_b.png",
+      "images/2d_va_vsim_047_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_45",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_048": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_048",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_048_a.png",
+      "images/2d_va_vsim_048_b.png",
+      "images/2d_va_vsim_048_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_85",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_049": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_049",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_049_a.png",
+      "images/2d_va_vsim_049_b.png",
+      "images/2d_va_vsim_049_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_34",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_050": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_050",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_050_a.png",
+      "images/2d_va_vsim_050_b.png",
+      "images/2d_va_vsim_050_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_89",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_051": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_051",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_051_a.png",
+      "images/2d_va_vsim_051_b.png",
+      "images/2d_va_vsim_051_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_82",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_052": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_052",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_052_a.png",
+      "images/2d_va_vsim_052_b.png",
+      "images/2d_va_vsim_052_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_9",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_053": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_053",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_053_a.png",
+      "images/2d_va_vsim_053_b.png",
+      "images/2d_va_vsim_053_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_105",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_054": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_054",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_054_a.png",
+      "images/2d_va_vsim_054_b.png",
+      "images/2d_va_vsim_054_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_21",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_055": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_055",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_055_a.png",
+      "images/2d_va_vsim_055_b.png",
+      "images/2d_va_vsim_055_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_68",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_056": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_056",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_056_a.png",
+      "images/2d_va_vsim_056_b.png",
+      "images/2d_va_vsim_056_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_59",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_057": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_057",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_057_a.png",
+      "images/2d_va_vsim_057_b.png",
+      "images/2d_va_vsim_057_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_108",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_058": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_058",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_058_a.png",
+      "images/2d_va_vsim_058_b.png",
+      "images/2d_va_vsim_058_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_115",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_059": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_059",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_059_a.png",
+      "images/2d_va_vsim_059_b.png",
+      "images/2d_va_vsim_059_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_92",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_060": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_060",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_060_a.png",
+      "images/2d_va_vsim_060_b.png",
+      "images/2d_va_vsim_060_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_medium_all_71",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_061": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_061",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_061_a.png",
+      "images/2d_va_vsim_061_b.png",
+      "images/2d_va_vsim_061_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_medium_all_28",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_062": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_062",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_062_a.png",
+      "images/2d_va_vsim_062_b.png",
+      "images/2d_va_vsim_062_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_7",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_063": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_063",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_063_a.png",
+      "images/2d_va_vsim_063_b.png",
+      "images/2d_va_vsim_063_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_111",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_064": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_064",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_064_a.png",
+      "images/2d_va_vsim_064_b.png",
+      "images/2d_va_vsim_064_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_medium_all_40",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_065": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_065",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_065_a.png",
+      "images/2d_va_vsim_065_b.png",
+      "images/2d_va_vsim_065_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_51",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_066": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_066",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_066_a.png",
+      "images/2d_va_vsim_066_b.png",
+      "images/2d_va_vsim_066_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_99",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_067": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_067",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_067_a.png",
+      "images/2d_va_vsim_067_b.png",
+      "images/2d_va_vsim_067_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_119",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_068": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_068",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_068_a.png",
+      "images/2d_va_vsim_068_b.png",
+      "images/2d_va_vsim_068_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_medium_all_27",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_069": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_069",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_069_a.png",
+      "images/2d_va_vsim_069_b.png",
+      "images/2d_va_vsim_069_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_33",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_070": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_070",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_070_a.png",
+      "images/2d_va_vsim_070_b.png",
+      "images/2d_va_vsim_070_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_54",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_071": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_071",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_071_a.png",
+      "images/2d_va_vsim_071_b.png",
+      "images/2d_va_vsim_071_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_114",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_072": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_072",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_072_a.png",
+      "images/2d_va_vsim_072_b.png",
+      "images/2d_va_vsim_072_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_117",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_073": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_073",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_073_a.png",
+      "images/2d_va_vsim_073_b.png",
+      "images/2d_va_vsim_073_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_51",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_074": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_074",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_074_a.png",
+      "images/2d_va_vsim_074_b.png",
+      "images/2d_va_vsim_074_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_46",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_075": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_075",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_075_a.png",
+      "images/2d_va_vsim_075_b.png",
+      "images/2d_va_vsim_075_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_65",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_076": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_076",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_076_a.png",
+      "images/2d_va_vsim_076_b.png",
+      "images/2d_va_vsim_076_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_11",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_077": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_077",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_077_a.png",
+      "images/2d_va_vsim_077_b.png",
+      "images/2d_va_vsim_077_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_96",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_078": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_078",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_078_a.png",
+      "images/2d_va_vsim_078_b.png",
+      "images/2d_va_vsim_078_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_87",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_079": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_079",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_079_a.png",
+      "images/2d_va_vsim_079_b.png",
+      "images/2d_va_vsim_079_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_116",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_080": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_080",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_080_a.png",
+      "images/2d_va_vsim_080_b.png",
+      "images/2d_va_vsim_080_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_76",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_081": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_081",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_081_a.png",
+      "images/2d_va_vsim_081_b.png",
+      "images/2d_va_vsim_081_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_8",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_082": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_082",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_082_a.png",
+      "images/2d_va_vsim_082_b.png",
+      "images/2d_va_vsim_082_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_49",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_083": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_083",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_083_a.png",
+      "images/2d_va_vsim_083_b.png",
+      "images/2d_va_vsim_083_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_48",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_084": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_084",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_084_a.png",
+      "images/2d_va_vsim_084_b.png",
+      "images/2d_va_vsim_084_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_98",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_085": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_085",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_085_a.png",
+      "images/2d_va_vsim_085_b.png",
+      "images/2d_va_vsim_085_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_hard_all_59",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_086": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_086",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_086_a.png",
+      "images/2d_va_vsim_086_b.png",
+      "images/2d_va_vsim_086_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_70",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_087": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_087",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_087_a.png",
+      "images/2d_va_vsim_087_b.png",
+      "images/2d_va_vsim_087_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_1",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_088": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_088",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_088_a.png",
+      "images/2d_va_vsim_088_b.png",
+      "images/2d_va_vsim_088_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_100",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_089": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_089",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_089_a.png",
+      "images/2d_va_vsim_089_b.png",
+      "images/2d_va_vsim_089_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_hard_all_104",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_090": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_090",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_090_a.png",
+      "images/2d_va_vsim_090_b.png",
+      "images/2d_va_vsim_090_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_68",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_091": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_091",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_091_a.png",
+      "images/2d_va_vsim_091_b.png",
+      "images/2d_va_vsim_091_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_34",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_092": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_092",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_092_a.png",
+      "images/2d_va_vsim_092_b.png",
+      "images/2d_va_vsim_092_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_82",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_093": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_093",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_093_a.png",
+      "images/2d_va_vsim_093_b.png",
+      "images/2d_va_vsim_093_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_43",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_094": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_094",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_094_a.png",
+      "images/2d_va_vsim_094_b.png",
+      "images/2d_va_vsim_094_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_hard_all_88",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_095": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_095",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_095_a.png",
+      "images/2d_va_vsim_095_b.png",
+      "images/2d_va_vsim_095_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_37",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_096": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_096",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_096_a.png",
+      "images/2d_va_vsim_096_b.png",
+      "images/2d_va_vsim_096_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_101",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_097": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_097",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_097_a.png",
+      "images/2d_va_vsim_097_b.png",
+      "images/2d_va_vsim_097_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "2steps_hard_all_58",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_098": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_098",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_098_a.png",
+      "images/2d_va_vsim_098_b.png",
+      "images/2d_va_vsim_098_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_119",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_099": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_099",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_099_a.png",
+      "images/2d_va_vsim_099_b.png",
+      "images/2d_va_vsim_099_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "2steps_hard_all_64",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_100": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_100",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_100_a.png",
+      "images/2d_va_vsim_100_b.png",
+      "images/2d_va_vsim_100_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_75",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_101": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_101",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_101_a.png",
+      "images/2d_va_vsim_101_b.png",
+      "images/2d_va_vsim_101_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "2steps_hard_all_13",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_102": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_102",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_102_a.png",
+      "images/2d_va_vsim_102_b.png",
+      "images/2d_va_vsim_102_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "2steps_hard_all_38",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_103": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_103",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_103_a.png",
+      "images/2d_va_vsim_103_b.png",
+      "images/2d_va_vsim_103_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_81",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_104": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_104",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_104_a.png",
+      "images/2d_va_vsim_104_b.png",
+      "images/2d_va_vsim_104_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_14",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_105": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_105",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_105_a.png",
+      "images/2d_va_vsim_105_b.png",
+      "images/2d_va_vsim_105_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_easy_all_3",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_106": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_106",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_106_a.png",
+      "images/2d_va_vsim_106_b.png",
+      "images/2d_va_vsim_106_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_35",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_107": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_107",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_107_a.png",
+      "images/2d_va_vsim_107_b.png",
+      "images/2d_va_vsim_107_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_31",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_108": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_108",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_108_a.png",
+      "images/2d_va_vsim_108_b.png",
+      "images/2d_va_vsim_108_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_28",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_109": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_109",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_109_a.png",
+      "images/2d_va_vsim_109_b.png",
+      "images/2d_va_vsim_109_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_17",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_110": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_110",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_110_a.png",
+      "images/2d_va_vsim_110_b.png",
+      "images/2d_va_vsim_110_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_116",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_111": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_111",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_111_a.png",
+      "images/2d_va_vsim_111_b.png",
+      "images/2d_va_vsim_111_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_13",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_112": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_112",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_112_a.png",
+      "images/2d_va_vsim_112_b.png",
+      "images/2d_va_vsim_112_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_86",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_113": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_113",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_113_a.png",
+      "images/2d_va_vsim_113_b.png",
+      "images/2d_va_vsim_113_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_111",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_114": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_114",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_114_a.png",
+      "images/2d_va_vsim_114_b.png",
+      "images/2d_va_vsim_114_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_69",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_115": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_115",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_115_a.png",
+      "images/2d_va_vsim_115_b.png",
+      "images/2d_va_vsim_115_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_easy_all_11",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_116": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_116",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_116_a.png",
+      "images/2d_va_vsim_116_b.png",
+      "images/2d_va_vsim_116_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_75",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_117": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_117",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_117_a.png",
+      "images/2d_va_vsim_117_b.png",
+      "images/2d_va_vsim_117_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_54",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_118": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_118",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_118_a.png",
+      "images/2d_va_vsim_118_b.png",
+      "images/2d_va_vsim_118_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_4",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_119": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_119",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_119_a.png",
+      "images/2d_va_vsim_119_b.png",
+      "images/2d_va_vsim_119_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_106",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_120": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_120",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_120_a.png",
+      "images/2d_va_vsim_120_b.png",
+      "images/2d_va_vsim_120_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_easy_all_29",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_121": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_121",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_121_a.png",
+      "images/2d_va_vsim_121_b.png",
+      "images/2d_va_vsim_121_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_easy_all_64",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_122": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_122",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_122_a.png",
+      "images/2d_va_vsim_122_b.png",
+      "images/2d_va_vsim_122_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_77",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_123": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_123",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_123_a.png",
+      "images/2d_va_vsim_123_b.png",
+      "images/2d_va_vsim_123_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_102",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_124": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_124",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_124_a.png",
+      "images/2d_va_vsim_124_b.png",
+      "images/2d_va_vsim_124_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_71",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_125": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_125",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_125_a.png",
+      "images/2d_va_vsim_125_b.png",
+      "images/2d_va_vsim_125_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_83",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_126": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_126",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_126_a.png",
+      "images/2d_va_vsim_126_b.png",
+      "images/2d_va_vsim_126_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_89",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_127": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_127",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_127_a.png",
+      "images/2d_va_vsim_127_b.png",
+      "images/2d_va_vsim_127_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_107",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_128": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_128",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_128_a.png",
+      "images/2d_va_vsim_128_b.png",
+      "images/2d_va_vsim_128_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_easy_all_113",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_129": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_129",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_129_a.png",
+      "images/2d_va_vsim_129_b.png",
+      "images/2d_va_vsim_129_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_57",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_130": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_130",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_130_a.png",
+      "images/2d_va_vsim_130_b.png",
+      "images/2d_va_vsim_130_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_105",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_131": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_131",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_131_a.png",
+      "images/2d_va_vsim_131_b.png",
+      "images/2d_va_vsim_131_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_115",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_132": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_132",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_132_a.png",
+      "images/2d_va_vsim_132_b.png",
+      "images/2d_va_vsim_132_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_0",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_133": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_133",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_133_a.png",
+      "images/2d_va_vsim_133_b.png",
+      "images/2d_va_vsim_133_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_20",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_134": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_134",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_134_a.png",
+      "images/2d_va_vsim_134_b.png",
+      "images/2d_va_vsim_134_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_104",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_135": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_135",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_135_a.png",
+      "images/2d_va_vsim_135_b.png",
+      "images/2d_va_vsim_135_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_easy_all_43",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_136": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_136",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_136_a.png",
+      "images/2d_va_vsim_136_b.png",
+      "images/2d_va_vsim_136_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_easy_all_19",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_137": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_137",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_137_a.png",
+      "images/2d_va_vsim_137_b.png",
+      "images/2d_va_vsim_137_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_8",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_138": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_138",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_138_a.png",
+      "images/2d_va_vsim_138_b.png",
+      "images/2d_va_vsim_138_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_5",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_139": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_139",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_139_a.png",
+      "images/2d_va_vsim_139_b.png",
+      "images/2d_va_vsim_139_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_84",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_140": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_140",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_140_a.png",
+      "images/2d_va_vsim_140_b.png",
+      "images/2d_va_vsim_140_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_29",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_141": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_141",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_141_a.png",
+      "images/2d_va_vsim_141_b.png",
+      "images/2d_va_vsim_141_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_98",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_142": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_142",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_142_a.png",
+      "images/2d_va_vsim_142_b.png",
+      "images/2d_va_vsim_142_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_37",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_143": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_143",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_143_a.png",
+      "images/2d_va_vsim_143_b.png",
+      "images/2d_va_vsim_143_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_10",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_144": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_144",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_144_a.png",
+      "images/2d_va_vsim_144_b.png",
+      "images/2d_va_vsim_144_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_109",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_145": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_145",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_145_a.png",
+      "images/2d_va_vsim_145_b.png",
+      "images/2d_va_vsim_145_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_116",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_146": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_146",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_146_a.png",
+      "images/2d_va_vsim_146_b.png",
+      "images/2d_va_vsim_146_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_110",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_147": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_147",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_147_a.png",
+      "images/2d_va_vsim_147_b.png",
+      "images/2d_va_vsim_147_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_12",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_148": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_148",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_148_a.png",
+      "images/2d_va_vsim_148_b.png",
+      "images/2d_va_vsim_148_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_35",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_149": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_149",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_149_a.png",
+      "images/2d_va_vsim_149_b.png",
+      "images/2d_va_vsim_149_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_58",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_150": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_150",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_150_a.png",
+      "images/2d_va_vsim_150_b.png",
+      "images/2d_va_vsim_150_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_81",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_151": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_151",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_151_a.png",
+      "images/2d_va_vsim_151_b.png",
+      "images/2d_va_vsim_151_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_46",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_152": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_152",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_152_a.png",
+      "images/2d_va_vsim_152_b.png",
+      "images/2d_va_vsim_152_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_20",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_153": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_153",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_153_a.png",
+      "images/2d_va_vsim_153_b.png",
+      "images/2d_va_vsim_153_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_47",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_154": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_154",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_154_a.png",
+      "images/2d_va_vsim_154_b.png",
+      "images/2d_va_vsim_154_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_45",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_155": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_155",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_155_a.png",
+      "images/2d_va_vsim_155_b.png",
+      "images/2d_va_vsim_155_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_26",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_156": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_156",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_156_a.png",
+      "images/2d_va_vsim_156_b.png",
+      "images/2d_va_vsim_156_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_85",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_157": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_157",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_157_a.png",
+      "images/2d_va_vsim_157_b.png",
+      "images/2d_va_vsim_157_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_34",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_158": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_158",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_158_a.png",
+      "images/2d_va_vsim_158_b.png",
+      "images/2d_va_vsim_158_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_89",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_159": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_159",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_159_a.png",
+      "images/2d_va_vsim_159_b.png",
+      "images/2d_va_vsim_159_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_87",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_160": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_160",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_160_a.png",
+      "images/2d_va_vsim_160_b.png",
+      "images/2d_va_vsim_160_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_82",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_161": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_161",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_161_a.png",
+      "images/2d_va_vsim_161_b.png",
+      "images/2d_va_vsim_161_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_medium_all_77",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_162": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_162",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_162_a.png",
+      "images/2d_va_vsim_162_b.png",
+      "images/2d_va_vsim_162_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_21",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_163": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_163",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_163_a.png",
+      "images/2d_va_vsim_163_b.png",
+      "images/2d_va_vsim_163_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_68",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_164": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_164",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_164_a.png",
+      "images/2d_va_vsim_164_b.png",
+      "images/2d_va_vsim_164_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_medium_all_31",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_165": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_165",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_165_a.png",
+      "images/2d_va_vsim_165_b.png",
+      "images/2d_va_vsim_165_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_103",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_166": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_166",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_166_a.png",
+      "images/2d_va_vsim_166_b.png",
+      "images/2d_va_vsim_166_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_108",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_167": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_167",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_167_a.png",
+      "images/2d_va_vsim_167_b.png",
+      "images/2d_va_vsim_167_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_115",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_168": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_168",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_168_a.png",
+      "images/2d_va_vsim_168_b.png",
+      "images/2d_va_vsim_168_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_92",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_169": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_169",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_169_a.png",
+      "images/2d_va_vsim_169_b.png",
+      "images/2d_va_vsim_169_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_medium_all_71",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_170": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_170",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_170_a.png",
+      "images/2d_va_vsim_170_b.png",
+      "images/2d_va_vsim_170_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_medium_all_28",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_171": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_171",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_171_a.png",
+      "images/2d_va_vsim_171_b.png",
+      "images/2d_va_vsim_171_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_33",
+    "category": "2D_va_VSim",
+    "response": "B",
+    "extraction": "B",
+    "true_false": false
+  },
+  "2d_va_vsim_172": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_172",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_172_a.png",
+      "images/2d_va_vsim_172_b.png",
+      "images/2d_va_vsim_172_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_95",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_173": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_173",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_173_a.png",
+      "images/2d_va_vsim_173_b.png",
+      "images/2d_va_vsim_173_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_74",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_174": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_174",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_174_a.png",
+      "images/2d_va_vsim_174_b.png",
+      "images/2d_va_vsim_174_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_54",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_175": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_175",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_175_a.png",
+      "images/2d_va_vsim_175_b.png",
+      "images/2d_va_vsim_175_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_114",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_176": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_176",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_176_a.png",
+      "images/2d_va_vsim_176_b.png",
+      "images/2d_va_vsim_176_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_46",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_177": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_177",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_177_a.png",
+      "images/2d_va_vsim_177_b.png",
+      "images/2d_va_vsim_177_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_28",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_178": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_178",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_178_a.png",
+      "images/2d_va_vsim_178_b.png",
+      "images/2d_va_vsim_178_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_hard_all_65",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_179": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_179",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_179_a.png",
+      "images/2d_va_vsim_179_b.png",
+      "images/2d_va_vsim_179_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_63",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_180": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_180",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_180_a.png",
+      "images/2d_va_vsim_180_b.png",
+      "images/2d_va_vsim_180_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_11",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_181": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_181",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_181_a.png",
+      "images/2d_va_vsim_181_b.png",
+      "images/2d_va_vsim_181_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_96",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": true
+  },
+  "2d_va_vsim_182": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_182",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_182_a.png",
+      "images/2d_va_vsim_182_b.png",
+      "images/2d_va_vsim_182_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_14",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_183": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_183",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_183_a.png",
+      "images/2d_va_vsim_183_b.png",
+      "images/2d_va_vsim_183_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_hard_all_20",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_184": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_184",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_184_a.png",
+      "images/2d_va_vsim_184_b.png",
+      "images/2d_va_vsim_184_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_87",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_185": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_185",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_185_a.png",
+      "images/2d_va_vsim_185_b.png",
+      "images/2d_va_vsim_185_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_116",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_186": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_186",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_186_a.png",
+      "images/2d_va_vsim_186_b.png",
+      "images/2d_va_vsim_186_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_76",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_187": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_187",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_187_a.png",
+      "images/2d_va_vsim_187_b.png",
+      "images/2d_va_vsim_187_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_hard_all_8",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_188": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_188",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_188_a.png",
+      "images/2d_va_vsim_188_b.png",
+      "images/2d_va_vsim_188_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_49",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_189": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_189",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_189_a.png",
+      "images/2d_va_vsim_189_b.png",
+      "images/2d_va_vsim_189_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_hard_all_32",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_190": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_190",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_190_a.png",
+      "images/2d_va_vsim_190_b.png",
+      "images/2d_va_vsim_190_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_70",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_191": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_191",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_191_a.png",
+      "images/2d_va_vsim_191_b.png",
+      "images/2d_va_vsim_191_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_1",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_192": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_192",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_192_a.png",
+      "images/2d_va_vsim_192_b.png",
+      "images/2d_va_vsim_192_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_100",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_193": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_193",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_193_a.png",
+      "images/2d_va_vsim_193_b.png",
+      "images/2d_va_vsim_193_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_104",
+    "category": "2D_va_VSim",
+    "response": "D",
+    "extraction": "D",
+    "true_false": false
+  },
+  "2d_va_vsim_194": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_194",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_194_a.png",
+      "images/2d_va_vsim_194_b.png",
+      "images/2d_va_vsim_194_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_68",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_195": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_195",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_195_a.png",
+      "images/2d_va_vsim_195_b.png",
+      "images/2d_va_vsim_195_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_34",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_196": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_196",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_196_a.png",
+      "images/2d_va_vsim_196_b.png",
+      "images/2d_va_vsim_196_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_82",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_197": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_197",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_197_a.png",
+      "images/2d_va_vsim_197_b.png",
+      "images/2d_va_vsim_197_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_43",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_198": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "C",
+    "qid": "2d_va_vsim_198",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_198_a.png",
+      "images/2d_va_vsim_198_b.png",
+      "images/2d_va_vsim_198_choice.png"
+    ],
+    "answer": "C",
+    "other_info": "3steps_hard_all_88",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": true
+  },
+  "2d_va_vsim_199": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_199",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_199_a.png",
+      "images/2d_va_vsim_199_b.png",
+      "images/2d_va_vsim_199_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_37",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_200": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_200",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_200_a.png",
+      "images/2d_va_vsim_200_b.png",
+      "images/2d_va_vsim_200_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_101",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_201": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "D",
+    "qid": "2d_va_vsim_201",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_201_a.png",
+      "images/2d_va_vsim_201_b.png",
+      "images/2d_va_vsim_201_choice.png"
+    ],
+    "answer": "D",
+    "other_info": "3steps_hard_all_58",
+    "category": "2D_va_VSim",
+    "response": "B",
+    "extraction": "B",
+    "true_false": false
+  },
+  "2d_va_vsim_202": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "2d_va_vsim_202",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_202_a.png",
+      "images/2d_va_vsim_202_b.png",
+      "images/2d_va_vsim_202_choice.png"
+    ],
+    "answer": "A",
+    "other_info": "3steps_hard_all_0",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_203": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_203",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_203_a.png",
+      "images/2d_va_vsim_203_b.png",
+      "images/2d_va_vsim_203_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_119",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  },
+  "2d_va_vsim_204": {
+    "query": "<image> <image> <image>\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "2d_va_vsim_204",
+    "question": "<image> <image> <image>",
+    "images": [
+      "images/2d_va_vsim_204_a.png",
+      "images/2d_va_vsim_204_b.png",
+      "images/2d_va_vsim_204_choice.png"
+    ],
+    "answer": "B",
+    "other_info": "3steps_hard_all_64",
+    "category": "2D_va_VSim",
+    "response": "C",
+    "extraction": "C",
+    "true_false": false
+  }
+}

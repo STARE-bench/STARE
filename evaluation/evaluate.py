@@ -103,7 +103,7 @@ def gen_true_false(answer_file, args):
     for pid, problem in results.items():
         flag = problem.get('true_false')
         if flag is not None:
-            skip_pids.append(problem['pid'])
+            skip_pids.append(problem['qid'])
 
     if args.rerun:
         test_pids = full_pids

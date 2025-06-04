@@ -2,7 +2,8 @@ import re
 import logging
 import base64
 from io import BytesIO
-
+import os
+from PIL import Image
 from transformers import Qwen2VLForConditionalGeneration, AutoTokenizer, AutoProcessor
 from qwen_vl_utils import process_vision_info
 import torch
@@ -43,10 +44,8 @@ def create_message(sample):
 
                 img_base64 = encode_image_to_base64(image)
                 all_contents.append({
-                    "type": "image_url",
-                    "image_url": {
-                        "url": f"data:image/png;base64,{img_base64}"
-                    }
+                    "type": "image",
+                    "image": f"data:image/png;base64,{img_base64}"
                 })
 
             except Exception as e:
@@ -65,14 +64,14 @@ class Qwen_Model:
     def __init__(
             self,
             model_path,
-            temperature=0,
+            temperature=1e-5,
             max_tokens=1024
     ):
         self.model_path = model_path
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.model = Qwen2VLForConditionalGeneration.from_pretrained(self.model_path, torch_dtype=torch.bfloat16,
-                                                                     attn_implementation="flash_attention_2",
+                                                                    #  attn_implementation="flash_attention_2",
                                                                      device_map="auto", )
         self.processor = AutoProcessor.from_pretrained(self.model_path)
 
@@ -84,7 +83,7 @@ class Qwen_Model:
 
         try:
             messages = create_message(sample)
-
+            # print(f"The messages is {messages}")
             text = processor.apply_chat_template(
                 messages, tokenize=False, add_generation_prompt=True, add_vision_id=True
             )
@@ -118,7 +117,7 @@ class Qwen2_5_Model:
     def __init__(
             self,
             model_path="Qwen/Qwen2.5-VL-72B-Instruct",
-            temperature=0,
+            temperature=1e-5,
             max_tokens=1024
     ):
         self.model_path = model_path
@@ -128,7 +127,7 @@ class Qwen2_5_Model:
         self.model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
             self.model_path,
             torch_dtype=torch.bfloat16, 
-            attn_implementation="flash_attention_2",
+            # attn_implementation="flash_attention_2",
             device_map="auto"
         )
 

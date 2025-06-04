@@ -1,0 +1,2187 @@
+{
+  "folding_nets_vsim_001": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 1 upwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_001",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 1 upwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_001_0.png",
+      "images/folding_nets_vsim_001_1.png",
+      "images/folding_nets_vsim_001_2.png",
+      "images/folding_nets_vsim_001_3.png"
+    ],
+    "answer": "A",
+    "other_info": "424_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_002": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 4 downwards towards face 5\n<image>\nStep 5: Fold face 2 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_002",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 4 downwards towards face 5\n<image>\nStep 5: Fold face 2 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_002_0.png",
+      "images/folding_nets_vsim_002_1.png",
+      "images/folding_nets_vsim_002_2.png",
+      "images/folding_nets_vsim_002_3.png",
+      "images/folding_nets_vsim_002_4.png"
+    ],
+    "answer": "A",
+    "other_info": "528_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_003": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_003",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_003_0.png",
+      "images/folding_nets_vsim_003_1.png",
+      "images/folding_nets_vsim_003_2.png",
+      "images/folding_nets_vsim_003_3.png",
+      "images/folding_nets_vsim_003_4.png"
+    ],
+    "answer": "B",
+    "other_info": "121_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_004": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_004",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_004_0.png",
+      "images/folding_nets_vsim_004_1.png",
+      "images/folding_nets_vsim_004_2.png",
+      "images/folding_nets_vsim_004_3.png",
+      "images/folding_nets_vsim_004_4.png"
+    ],
+    "answer": "B",
+    "other_info": "542_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_005": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 1 inwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_005",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 1 inwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_005_0.png",
+      "images/folding_nets_vsim_005_1.png",
+      "images/folding_nets_vsim_005_2.png",
+      "images/folding_nets_vsim_005_3.png"
+    ],
+    "answer": "B",
+    "other_info": "469_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_006": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 3 upwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_006",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 3 upwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_006_0.png",
+      "images/folding_nets_vsim_006_1.png",
+      "images/folding_nets_vsim_006_2.png",
+      "images/folding_nets_vsim_006_3.png"
+    ],
+    "answer": "B",
+    "other_info": "544_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_007": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\n<image>\nStep 3: Fold face 2 inwards towards face 3\n<image>\nStep 4: Fold face 4 inwards towards face 5\nStep 5: Fold face 1 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_007",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\n<image>\nStep 3: Fold face 2 inwards towards face 3\n<image>\nStep 4: Fold face 4 inwards towards face 5\nStep 5: Fold face 1 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_007_0.png",
+      "images/folding_nets_vsim_007_1.png",
+      "images/folding_nets_vsim_007_2.png",
+      "images/folding_nets_vsim_007_3.png"
+    ],
+    "answer": "B",
+    "other_info": "446_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_008": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 2\n<image>\nStep 4: Fold face 6 inwards towards face 2\n<image>\nStep 5: Fold face 1 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_008",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 2\n<image>\nStep 4: Fold face 6 inwards towards face 2\n<image>\nStep 5: Fold face 1 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_008_0.png",
+      "images/folding_nets_vsim_008_1.png",
+      "images/folding_nets_vsim_008_2.png",
+      "images/folding_nets_vsim_008_3.png",
+      "images/folding_nets_vsim_008_4.png"
+    ],
+    "answer": "A",
+    "other_info": "324_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_009": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 5 downwards towards face 6\n<image>\nStep 5: Fold face 4 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_009",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 5 downwards towards face 6\n<image>\nStep 5: Fold face 4 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_009_0.png",
+      "images/folding_nets_vsim_009_1.png",
+      "images/folding_nets_vsim_009_2.png",
+      "images/folding_nets_vsim_009_3.png",
+      "images/folding_nets_vsim_009_4.png"
+    ],
+    "answer": "B",
+    "other_info": "179_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_010": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 2 downwards towards face 1\n<image>\nStep 5: Fold face 6 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_010",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 2 downwards towards face 1\n<image>\nStep 5: Fold face 6 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_010_0.png",
+      "images/folding_nets_vsim_010_1.png",
+      "images/folding_nets_vsim_010_2.png",
+      "images/folding_nets_vsim_010_3.png",
+      "images/folding_nets_vsim_010_4.png"
+    ],
+    "answer": "B",
+    "other_info": "221_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_011": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 6 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_011",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 6 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_011_0.png",
+      "images/folding_nets_vsim_011_1.png",
+      "images/folding_nets_vsim_011_2.png"
+    ],
+    "answer": "B",
+    "other_info": "396_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_012": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 4\nStep 4: Fold face 3 downwards towards face 4\nStep 5: Fold face 2 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_012",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 4\nStep 4: Fold face 3 downwards towards face 4\nStep 5: Fold face 2 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_012_0.png",
+      "images/folding_nets_vsim_012_1.png",
+      "images/folding_nets_vsim_012_2.png"
+    ],
+    "answer": "A",
+    "other_info": "425_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_013": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 2\nStep 3: Fold face 3 upwards towards face 1\nStep 4: Fold face 4 inwards towards face 6\nStep 5: Fold face 5 inwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_013",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 2\nStep 3: Fold face 3 upwards towards face 1\nStep 4: Fold face 4 inwards towards face 6\nStep 5: Fold face 5 inwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_013_0.png",
+      "images/folding_nets_vsim_013_1.png"
+    ],
+    "answer": "A",
+    "other_info": "476_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_014": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 4\nStep 4: Fold face 6 inwards towards face 3\nStep 5: Fold face 2 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_014",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 4\nStep 4: Fold face 6 inwards towards face 3\nStep 5: Fold face 2 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_014_0.png",
+      "images/folding_nets_vsim_014_1.png",
+      "images/folding_nets_vsim_014_2.png"
+    ],
+    "answer": "B",
+    "other_info": "471_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_015": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 4 upwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_015",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 4 upwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_015_0.png",
+      "images/folding_nets_vsim_015_1.png",
+      "images/folding_nets_vsim_015_2.png",
+      "images/folding_nets_vsim_015_3.png",
+      "images/folding_nets_vsim_015_4.png"
+    ],
+    "answer": "B",
+    "other_info": "330_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_016": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 1\nStep 5: Fold face 6 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_016",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 1\nStep 5: Fold face 6 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_016_0.png",
+      "images/folding_nets_vsim_016_1.png",
+      "images/folding_nets_vsim_016_2.png",
+      "images/folding_nets_vsim_016_3.png"
+    ],
+    "answer": "B",
+    "other_info": "306_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_017": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 3\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_017",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 3\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_017_0.png",
+      "images/folding_nets_vsim_017_1.png",
+      "images/folding_nets_vsim_017_2.png",
+      "images/folding_nets_vsim_017_3.png"
+    ],
+    "answer": "B",
+    "other_info": "530_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_018": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_018",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_018_0.png",
+      "images/folding_nets_vsim_018_1.png",
+      "images/folding_nets_vsim_018_2.png",
+      "images/folding_nets_vsim_018_3.png",
+      "images/folding_nets_vsim_018_4.png"
+    ],
+    "answer": "A",
+    "other_info": "367_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_019": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 5 inwards towards face 3\n<image>\nStep 4: Fold face 4 upwards towards face 1\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_019",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 5 inwards towards face 3\n<image>\nStep 4: Fold face 4 upwards towards face 1\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_019_0.png",
+      "images/folding_nets_vsim_019_1.png",
+      "images/folding_nets_vsim_019_2.png",
+      "images/folding_nets_vsim_019_3.png",
+      "images/folding_nets_vsim_019_4.png"
+    ],
+    "answer": "A",
+    "other_info": "57_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_020": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 3\n<image>\nStep 4: Fold face 2 upwards towards face 6\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_020",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 3\n<image>\nStep 4: Fold face 2 upwards towards face 6\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_020_0.png",
+      "images/folding_nets_vsim_020_1.png",
+      "images/folding_nets_vsim_020_2.png",
+      "images/folding_nets_vsim_020_3.png"
+    ],
+    "answer": "A",
+    "other_info": "81_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_021": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 5\n<image>\nStep 3: Fold face 4 upwards towards face 3\nStep 4: Fold face 1 inwards towards face 3\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_021",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 5\n<image>\nStep 3: Fold face 4 upwards towards face 3\nStep 4: Fold face 1 inwards towards face 3\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_021_0.png",
+      "images/folding_nets_vsim_021_1.png",
+      "images/folding_nets_vsim_021_2.png"
+    ],
+    "answer": "A",
+    "other_info": "442_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_022": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_022",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_022_0.png",
+      "images/folding_nets_vsim_022_1.png",
+      "images/folding_nets_vsim_022_2.png",
+      "images/folding_nets_vsim_022_3.png",
+      "images/folding_nets_vsim_022_4.png"
+    ],
+    "answer": "A",
+    "other_info": "12_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_023": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\nStep 3: Fold face 4 inwards towards face 6\nStep 4: Fold face 5 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_023",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\nStep 3: Fold face 4 inwards towards face 6\nStep 4: Fold face 5 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_023_0.png",
+      "images/folding_nets_vsim_023_1.png"
+    ],
+    "answer": "A",
+    "other_info": "383_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_024": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 2\n<image>\nStep 3: Fold face 6 downwards towards face 1\n<image>\nStep 4: Fold face 3 upwards towards face 4\nStep 5: Fold face 4 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_024",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 2\n<image>\nStep 3: Fold face 6 downwards towards face 1\n<image>\nStep 4: Fold face 3 upwards towards face 4\nStep 5: Fold face 4 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_024_0.png",
+      "images/folding_nets_vsim_024_1.png",
+      "images/folding_nets_vsim_024_2.png",
+      "images/folding_nets_vsim_024_3.png"
+    ],
+    "answer": "A",
+    "other_info": "137_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_025": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 4 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_025",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 4 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_025_0.png",
+      "images/folding_nets_vsim_025_1.png",
+      "images/folding_nets_vsim_025_2.png",
+      "images/folding_nets_vsim_025_3.png"
+    ],
+    "answer": "A",
+    "other_info": "472_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_026": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 5\n<image>\nStep 5: Fold face 1 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_026",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 5\n<image>\nStep 5: Fold face 1 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_026_0.png",
+      "images/folding_nets_vsim_026_1.png",
+      "images/folding_nets_vsim_026_2.png",
+      "images/folding_nets_vsim_026_3.png",
+      "images/folding_nets_vsim_026_4.png"
+    ],
+    "answer": "B",
+    "other_info": "93_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_027": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 1\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_027",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 1\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_027_0.png",
+      "images/folding_nets_vsim_027_1.png",
+      "images/folding_nets_vsim_027_2.png",
+      "images/folding_nets_vsim_027_3.png",
+      "images/folding_nets_vsim_027_4.png"
+    ],
+    "answer": "B",
+    "other_info": "152_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_028": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 2 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 5\nStep 5: Fold face 4 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_028",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 2 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 5\nStep 5: Fold face 4 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_028_0.png",
+      "images/folding_nets_vsim_028_1.png",
+      "images/folding_nets_vsim_028_2.png",
+      "images/folding_nets_vsim_028_3.png"
+    ],
+    "answer": "B",
+    "other_info": "477_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_029": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 3\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 3\n<image>\nStep 5: Fold face 6 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_029",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 3\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 3\n<image>\nStep 5: Fold face 6 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_029_0.png",
+      "images/folding_nets_vsim_029_1.png",
+      "images/folding_nets_vsim_029_2.png",
+      "images/folding_nets_vsim_029_3.png",
+      "images/folding_nets_vsim_029_4.png"
+    ],
+    "answer": "B",
+    "other_info": "414_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_030": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_030",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_030_0.png",
+      "images/folding_nets_vsim_030_1.png",
+      "images/folding_nets_vsim_030_2.png",
+      "images/folding_nets_vsim_030_3.png",
+      "images/folding_nets_vsim_030_4.png"
+    ],
+    "answer": "B",
+    "other_info": "331_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_031": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 4 upwards towards face 3\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_031",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 4 upwards towards face 3\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_031_0.png",
+      "images/folding_nets_vsim_031_1.png",
+      "images/folding_nets_vsim_031_2.png"
+    ],
+    "answer": "A",
+    "other_info": "563_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_032": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 6\n<image>\nStep 5: Fold face 4 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_032",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 6\n<image>\nStep 5: Fold face 4 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_032_0.png",
+      "images/folding_nets_vsim_032_1.png",
+      "images/folding_nets_vsim_032_2.png",
+      "images/folding_nets_vsim_032_3.png",
+      "images/folding_nets_vsim_032_4.png"
+    ],
+    "answer": "B",
+    "other_info": "570_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_033": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 4\n<image>\nStep 4: Fold face 2 inwards towards face 4\n<image>\nStep 5: Fold face 6 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_033",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 4\n<image>\nStep 4: Fold face 2 inwards towards face 4\n<image>\nStep 5: Fold face 6 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_033_0.png",
+      "images/folding_nets_vsim_033_1.png",
+      "images/folding_nets_vsim_033_2.png",
+      "images/folding_nets_vsim_033_3.png",
+      "images/folding_nets_vsim_033_4.png"
+    ],
+    "answer": "A",
+    "other_info": "320_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_034": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 3 downwards towards face 6\nStep 5: Fold face 4 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_034",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 3 downwards towards face 6\nStep 5: Fold face 4 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_034_0.png",
+      "images/folding_nets_vsim_034_1.png",
+      "images/folding_nets_vsim_034_2.png",
+      "images/folding_nets_vsim_034_3.png"
+    ],
+    "answer": "A",
+    "other_info": "514_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_035": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 2\nStep 3: Fold face 3 downwards towards face 5\nStep 4: Fold face 6 downwards towards face 5\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_035",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 2\nStep 3: Fold face 3 downwards towards face 5\nStep 4: Fold face 6 downwards towards face 5\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_035_0.png",
+      "images/folding_nets_vsim_035_1.png"
+    ],
+    "answer": "A",
+    "other_info": "109_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_036": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_036",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_036_0.png",
+      "images/folding_nets_vsim_036_1.png",
+      "images/folding_nets_vsim_036_2.png"
+    ],
+    "answer": "B",
+    "other_info": "332_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_037": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_037",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_037_0.png",
+      "images/folding_nets_vsim_037_1.png",
+      "images/folding_nets_vsim_037_2.png"
+    ],
+    "answer": "B",
+    "other_info": "508_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_038": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 4\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_038",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 4\nStep 4: Fold face 2 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_038_0.png",
+      "images/folding_nets_vsim_038_1.png",
+      "images/folding_nets_vsim_038_2.png"
+    ],
+    "answer": "B",
+    "other_info": "406_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_039": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 4 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_039",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 4 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_039_0.png",
+      "images/folding_nets_vsim_039_1.png",
+      "images/folding_nets_vsim_039_2.png",
+      "images/folding_nets_vsim_039_3.png",
+      "images/folding_nets_vsim_039_4.png"
+    ],
+    "answer": "A",
+    "other_info": "82_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_040": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_040",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_040_0.png",
+      "images/folding_nets_vsim_040_1.png",
+      "images/folding_nets_vsim_040_2.png",
+      "images/folding_nets_vsim_040_3.png",
+      "images/folding_nets_vsim_040_4.png"
+    ],
+    "answer": "B",
+    "other_info": "374_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_041": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\nStep 3: Fold face 4 downwards towards face 5\nStep 4: Fold face 2 upwards towards face 4\nStep 5: Fold face 6 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_041",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\nStep 3: Fold face 4 downwards towards face 5\nStep 4: Fold face 2 upwards towards face 4\nStep 5: Fold face 6 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_041_0.png",
+      "images/folding_nets_vsim_041_1.png"
+    ],
+    "answer": "B",
+    "other_info": "161_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_042": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 4 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_042",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 4 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_042_0.png",
+      "images/folding_nets_vsim_042_1.png",
+      "images/folding_nets_vsim_042_2.png",
+      "images/folding_nets_vsim_042_3.png"
+    ],
+    "answer": "A",
+    "other_info": "546_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_043": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 1 downwards towards face 6\n<image>\nStep 4: Fold face 4 upwards towards face 3\nStep 5: Fold face 5 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_043",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 1 downwards towards face 6\n<image>\nStep 4: Fold face 4 upwards towards face 3\nStep 5: Fold face 5 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_043_0.png",
+      "images/folding_nets_vsim_043_1.png",
+      "images/folding_nets_vsim_043_2.png",
+      "images/folding_nets_vsim_043_3.png"
+    ],
+    "answer": "A",
+    "other_info": "565_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_044": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 4\n<image>\nStep 3: Fold face 1 downwards towards face 5\n<image>\nStep 4: Fold face 3 downwards towards face 5\n<image>\nStep 5: Fold face 2 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_044",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 4\n<image>\nStep 3: Fold face 1 downwards towards face 5\n<image>\nStep 4: Fold face 3 downwards towards face 5\n<image>\nStep 5: Fold face 2 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_044_0.png",
+      "images/folding_nets_vsim_044_1.png",
+      "images/folding_nets_vsim_044_2.png",
+      "images/folding_nets_vsim_044_3.png",
+      "images/folding_nets_vsim_044_4.png"
+    ],
+    "answer": "A",
+    "other_info": "548_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_045": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 1\n<image>\nStep 3: Fold face 6 downwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 1\n<image>\nStep 5: Fold face 3 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_045",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 1\n<image>\nStep 3: Fold face 6 downwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 1\n<image>\nStep 5: Fold face 3 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_045_0.png",
+      "images/folding_nets_vsim_045_1.png",
+      "images/folding_nets_vsim_045_2.png",
+      "images/folding_nets_vsim_045_3.png",
+      "images/folding_nets_vsim_045_4.png"
+    ],
+    "answer": "A",
+    "other_info": "279_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_046": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 2 upwards towards face 1\nStep 5: Fold face 5 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_046",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 2 upwards towards face 1\nStep 5: Fold face 5 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_046_0.png",
+      "images/folding_nets_vsim_046_1.png",
+      "images/folding_nets_vsim_046_2.png"
+    ],
+    "answer": "A",
+    "other_info": "456_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_047": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 2 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 5 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_047",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 2 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 5 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_047_0.png",
+      "images/folding_nets_vsim_047_1.png",
+      "images/folding_nets_vsim_047_2.png"
+    ],
+    "answer": "A",
+    "other_info": "375_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_048": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 6\n<image>\nStep 3: Fold face 5 inwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 3\n<image>\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_048",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 6\n<image>\nStep 3: Fold face 5 inwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 3\n<image>\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_048_0.png",
+      "images/folding_nets_vsim_048_1.png",
+      "images/folding_nets_vsim_048_2.png",
+      "images/folding_nets_vsim_048_3.png",
+      "images/folding_nets_vsim_048_4.png"
+    ],
+    "answer": "A",
+    "other_info": "49_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_049": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 downwards towards face 4\nStep 4: Fold face 4 inwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_049",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 downwards towards face 4\nStep 4: Fold face 4 inwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_049_0.png",
+      "images/folding_nets_vsim_049_1.png",
+      "images/folding_nets_vsim_049_2.png"
+    ],
+    "answer": "A",
+    "other_info": "326_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_050": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 4 upwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 3 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_050",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 4 upwards towards face 5\n<image>\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 3 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_050_0.png",
+      "images/folding_nets_vsim_050_1.png",
+      "images/folding_nets_vsim_050_2.png",
+      "images/folding_nets_vsim_050_3.png"
+    ],
+    "answer": "B",
+    "other_info": "3_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_051": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 2 inwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_051",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 2 inwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_051_0.png",
+      "images/folding_nets_vsim_051_1.png",
+      "images/folding_nets_vsim_051_2.png",
+      "images/folding_nets_vsim_051_3.png",
+      "images/folding_nets_vsim_051_4.png"
+    ],
+    "answer": "B",
+    "other_info": "434_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_052": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\nStep 3: Fold face 1 inwards towards face 5\nStep 4: Fold face 4 inwards towards face 5\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_052",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\nStep 3: Fold face 1 inwards towards face 5\nStep 4: Fold face 4 inwards towards face 5\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_052_0.png",
+      "images/folding_nets_vsim_052_1.png"
+    ],
+    "answer": "A",
+    "other_info": "433_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_053": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 2 downwards towards face 1\n<image>\nStep 4: Fold face 4 inwards towards face 1\n<image>\nStep 5: Fold face 3 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_053",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 2 downwards towards face 1\n<image>\nStep 4: Fold face 4 inwards towards face 1\n<image>\nStep 5: Fold face 3 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_053_0.png",
+      "images/folding_nets_vsim_053_1.png",
+      "images/folding_nets_vsim_053_2.png",
+      "images/folding_nets_vsim_053_3.png",
+      "images/folding_nets_vsim_053_4.png"
+    ],
+    "answer": "A",
+    "other_info": "164_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_054": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 2\n<image>\nStep 4: Fold face 1 downwards towards face 6\n<image>\nStep 5: Fold face 3 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_054",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 2\n<image>\nStep 4: Fold face 1 downwards towards face 6\n<image>\nStep 5: Fold face 3 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_054_0.png",
+      "images/folding_nets_vsim_054_1.png",
+      "images/folding_nets_vsim_054_2.png",
+      "images/folding_nets_vsim_054_3.png",
+      "images/folding_nets_vsim_054_4.png"
+    ],
+    "answer": "B",
+    "other_info": "510_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_055": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_055",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_055_0.png",
+      "images/folding_nets_vsim_055_1.png",
+      "images/folding_nets_vsim_055_2.png",
+      "images/folding_nets_vsim_055_3.png",
+      "images/folding_nets_vsim_055_4.png"
+    ],
+    "answer": "B",
+    "other_info": "533_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_056": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 2 downwards towards face 3\n<image>\nStep 4: Fold face 5 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_056",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 6\n<image>\nStep 3: Fold face 2 downwards towards face 3\n<image>\nStep 4: Fold face 5 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_056_0.png",
+      "images/folding_nets_vsim_056_1.png",
+      "images/folding_nets_vsim_056_2.png",
+      "images/folding_nets_vsim_056_3.png",
+      "images/folding_nets_vsim_056_4.png"
+    ],
+    "answer": "A",
+    "other_info": "323_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_057": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 2 downwards towards face 5\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_057",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 2 downwards towards face 5\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_057_0.png",
+      "images/folding_nets_vsim_057_1.png",
+      "images/folding_nets_vsim_057_2.png"
+    ],
+    "answer": "B",
+    "other_info": "439_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_058": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 4 inwards towards face 1\nStep 5: Fold face 5 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_058",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 4 inwards towards face 1\nStep 5: Fold face 5 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_058_0.png",
+      "images/folding_nets_vsim_058_1.png",
+      "images/folding_nets_vsim_058_2.png",
+      "images/folding_nets_vsim_058_3.png"
+    ],
+    "answer": "A",
+    "other_info": "43_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_059": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 1\n<image>\nStep 3: Fold face 2 upwards towards face 6\n<image>\nStep 4: Fold face 5 downwards towards face 4\nStep 5: Fold face 3 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_059",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 1\n<image>\nStep 3: Fold face 2 upwards towards face 6\n<image>\nStep 4: Fold face 5 downwards towards face 4\nStep 5: Fold face 3 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_059_0.png",
+      "images/folding_nets_vsim_059_1.png",
+      "images/folding_nets_vsim_059_2.png",
+      "images/folding_nets_vsim_059_3.png"
+    ],
+    "answer": "A",
+    "other_info": "2_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_060": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 1\nStep 3: Fold face 4 inwards towards face 1\nStep 4: Fold face 5 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_060",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 1\nStep 3: Fold face 4 inwards towards face 1\nStep 4: Fold face 5 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_060_0.png",
+      "images/folding_nets_vsim_060_1.png"
+    ],
+    "answer": "B",
+    "other_info": "569_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_061": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 1 inwards towards face 4\n<image>\nStep 4: Fold face 6 inwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_061",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 1 inwards towards face 4\n<image>\nStep 4: Fold face 6 inwards towards face 4\n<image>\nStep 5: Fold face 2 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_061_0.png",
+      "images/folding_nets_vsim_061_1.png",
+      "images/folding_nets_vsim_061_2.png",
+      "images/folding_nets_vsim_061_3.png",
+      "images/folding_nets_vsim_061_4.png"
+    ],
+    "answer": "A",
+    "other_info": "545_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_062": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_062",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 1\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_062_0.png",
+      "images/folding_nets_vsim_062_1.png",
+      "images/folding_nets_vsim_062_2.png",
+      "images/folding_nets_vsim_062_3.png"
+    ],
+    "answer": "A",
+    "other_info": "133_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_063": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 upwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_063",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 upwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_063_0.png",
+      "images/folding_nets_vsim_063_1.png",
+      "images/folding_nets_vsim_063_2.png",
+      "images/folding_nets_vsim_063_3.png",
+      "images/folding_nets_vsim_063_4.png"
+    ],
+    "answer": "B",
+    "other_info": "180_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_064": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 downwards towards face 5\n<image>\nStep 4: Fold face 3 inwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_064",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 downwards towards face 5\n<image>\nStep 4: Fold face 3 inwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_064_0.png",
+      "images/folding_nets_vsim_064_1.png",
+      "images/folding_nets_vsim_064_2.png",
+      "images/folding_nets_vsim_064_3.png",
+      "images/folding_nets_vsim_064_4.png"
+    ],
+    "answer": "A",
+    "other_info": "344_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_065": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_065",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 1\n<image>\nStep 5: Fold face 2 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_065_0.png",
+      "images/folding_nets_vsim_065_1.png",
+      "images/folding_nets_vsim_065_2.png",
+      "images/folding_nets_vsim_065_3.png",
+      "images/folding_nets_vsim_065_4.png"
+    ],
+    "answer": "A",
+    "other_info": "441_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_066": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_066",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_066_0.png",
+      "images/folding_nets_vsim_066_1.png",
+      "images/folding_nets_vsim_066_2.png",
+      "images/folding_nets_vsim_066_3.png",
+      "images/folding_nets_vsim_066_4.png"
+    ],
+    "answer": "A",
+    "other_info": "203_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_067": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 3\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_067",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 3\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_067_0.png",
+      "images/folding_nets_vsim_067_1.png",
+      "images/folding_nets_vsim_067_2.png",
+      "images/folding_nets_vsim_067_3.png"
+    ],
+    "answer": "A",
+    "other_info": "242_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_068": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 2 inwards towards face 3\n<image>\nStep 5: Fold face 4 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_068",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 downwards towards face 1\n<image>\nStep 4: Fold face 2 inwards towards face 3\n<image>\nStep 5: Fold face 4 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_068_0.png",
+      "images/folding_nets_vsim_068_1.png",
+      "images/folding_nets_vsim_068_2.png",
+      "images/folding_nets_vsim_068_3.png",
+      "images/folding_nets_vsim_068_4.png"
+    ],
+    "answer": "A",
+    "other_info": "162_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_069": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_069",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_069_0.png",
+      "images/folding_nets_vsim_069_1.png",
+      "images/folding_nets_vsim_069_2.png"
+    ],
+    "answer": "B",
+    "other_info": "104_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_070": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_070",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_070_0.png",
+      "images/folding_nets_vsim_070_1.png",
+      "images/folding_nets_vsim_070_2.png",
+      "images/folding_nets_vsim_070_3.png"
+    ],
+    "answer": "B",
+    "other_info": "178_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_071": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_071",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_071_0.png",
+      "images/folding_nets_vsim_071_1.png",
+      "images/folding_nets_vsim_071_2.png",
+      "images/folding_nets_vsim_071_3.png",
+      "images/folding_nets_vsim_071_4.png"
+    ],
+    "answer": "A",
+    "other_info": "86_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_072": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards towards face 6\n<image>\nStep 3: Fold face 3 upwards towards face 1\n<image>\nStep 4: Fold face 4 inwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_072",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards towards face 6\n<image>\nStep 3: Fold face 3 upwards towards face 1\n<image>\nStep 4: Fold face 4 inwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_072_0.png",
+      "images/folding_nets_vsim_072_1.png",
+      "images/folding_nets_vsim_072_2.png",
+      "images/folding_nets_vsim_072_3.png",
+      "images/folding_nets_vsim_072_4.png"
+    ],
+    "answer": "A",
+    "other_info": "307_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_073": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 3 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_073",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 3 inwards towards face 6\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_073_0.png",
+      "images/folding_nets_vsim_073_1.png",
+      "images/folding_nets_vsim_073_2.png",
+      "images/folding_nets_vsim_073_3.png"
+    ],
+    "answer": "B",
+    "other_info": "411_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_074": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 inwards towards face 4\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 2 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_074",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 inwards towards face 4\nStep 4: Fold face 6 downwards towards face 3\nStep 5: Fold face 2 upwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_074_0.png",
+      "images/folding_nets_vsim_074_1.png",
+      "images/folding_nets_vsim_074_2.png"
+    ],
+    "answer": "A",
+    "other_info": "489_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_075": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 4\n<image>\nStep 3: Fold face 1 inwards towards face 4\n<image>\nStep 4: Fold face 3 downwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_075",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 4\n<image>\nStep 3: Fold face 1 inwards towards face 4\n<image>\nStep 4: Fold face 3 downwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_075_0.png",
+      "images/folding_nets_vsim_075_1.png",
+      "images/folding_nets_vsim_075_2.png",
+      "images/folding_nets_vsim_075_3.png",
+      "images/folding_nets_vsim_075_4.png"
+    ],
+    "answer": "A",
+    "other_info": "283_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_076": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 1\n<image>\nStep 3: Fold face 2 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 1\n<image>\nStep 5: Fold face 4 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_076",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 1\n<image>\nStep 3: Fold face 2 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 1\n<image>\nStep 5: Fold face 4 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_076_0.png",
+      "images/folding_nets_vsim_076_1.png",
+      "images/folding_nets_vsim_076_2.png",
+      "images/folding_nets_vsim_076_3.png",
+      "images/folding_nets_vsim_076_4.png"
+    ],
+    "answer": "B",
+    "other_info": "47_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_077": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 5\n<image>\nStep 3: Fold face 4 upwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_077",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 5\n<image>\nStep 3: Fold face 4 upwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_077_0.png",
+      "images/folding_nets_vsim_077_1.png",
+      "images/folding_nets_vsim_077_2.png",
+      "images/folding_nets_vsim_077_3.png",
+      "images/folding_nets_vsim_077_4.png"
+    ],
+    "answer": "A",
+    "other_info": "339_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_078": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 4 inwards towards face 3\n<image>\nStep 4: Fold face 2 inwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_078",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 4 inwards towards face 3\n<image>\nStep 4: Fold face 2 inwards towards face 3\n<image>\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_078_0.png",
+      "images/folding_nets_vsim_078_1.png",
+      "images/folding_nets_vsim_078_2.png",
+      "images/folding_nets_vsim_078_3.png",
+      "images/folding_nets_vsim_078_4.png"
+    ],
+    "answer": "A",
+    "other_info": "301_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_079": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 2 inwards towards face 5\nStep 5: Fold face 1 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_079",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 2 inwards towards face 5\nStep 5: Fold face 1 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_079_0.png",
+      "images/folding_nets_vsim_079_1.png",
+      "images/folding_nets_vsim_079_2.png",
+      "images/folding_nets_vsim_079_3.png"
+    ],
+    "answer": "B",
+    "other_info": "555_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_080": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 4\n<image>\nStep 4: Fold face 2 upwards towards face 3\n<image>\nStep 5: Fold face 1 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_080",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 4\n<image>\nStep 4: Fold face 2 upwards towards face 3\n<image>\nStep 5: Fold face 1 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_080_0.png",
+      "images/folding_nets_vsim_080_1.png",
+      "images/folding_nets_vsim_080_2.png",
+      "images/folding_nets_vsim_080_3.png",
+      "images/folding_nets_vsim_080_4.png"
+    ],
+    "answer": "A",
+    "other_info": "253_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_081": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 4\n<image>\nStep 3: Fold face 6 inwards towards face 3\nStep 4: Fold face 1 downwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_081",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 4\n<image>\nStep 3: Fold face 6 inwards towards face 3\nStep 4: Fold face 1 downwards towards face 6\nStep 5: Fold face 2 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_081_0.png",
+      "images/folding_nets_vsim_081_1.png",
+      "images/folding_nets_vsim_081_2.png"
+    ],
+    "answer": "B",
+    "other_info": "53_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_082": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 6\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_082",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 5 inwards towards face 6\n<image>\nStep 5: Fold face 2 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_082_0.png",
+      "images/folding_nets_vsim_082_1.png",
+      "images/folding_nets_vsim_082_2.png",
+      "images/folding_nets_vsim_082_3.png",
+      "images/folding_nets_vsim_082_4.png"
+    ],
+    "answer": "A",
+    "other_info": "199_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_083": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 2 inwards towards face 3\n<image>\nStep 4: Fold face 6 inwards towards face 3\n<image>\nStep 5: Fold face 5 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_083",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 downwards\n<image>\nStep 3: Fold face 2 inwards towards face 3\n<image>\nStep 4: Fold face 6 inwards towards face 3\n<image>\nStep 5: Fold face 5 inwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_083_0.png",
+      "images/folding_nets_vsim_083_1.png",
+      "images/folding_nets_vsim_083_2.png",
+      "images/folding_nets_vsim_083_3.png",
+      "images/folding_nets_vsim_083_4.png"
+    ],
+    "answer": "A",
+    "other_info": "228_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_084": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 6\n<image>\nStep 3: Fold face 2 upwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 5\n<image>\nStep 5: Fold face 3 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_084",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 6\n<image>\nStep 3: Fold face 2 upwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 5\n<image>\nStep 5: Fold face 3 downwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_084_0.png",
+      "images/folding_nets_vsim_084_1.png",
+      "images/folding_nets_vsim_084_2.png",
+      "images/folding_nets_vsim_084_3.png",
+      "images/folding_nets_vsim_084_4.png"
+    ],
+    "answer": "A",
+    "other_info": "145_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_085": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\n<image>\nStep 3: Fold face 2 upwards towards face 4\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_085",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 5 inwards towards face 3\n<image>\nStep 3: Fold face 2 upwards towards face 4\n<image>\nStep 4: Fold face 6 downwards towards face 4\n<image>\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_085_0.png",
+      "images/folding_nets_vsim_085_1.png",
+      "images/folding_nets_vsim_085_2.png",
+      "images/folding_nets_vsim_085_3.png",
+      "images/folding_nets_vsim_085_4.png"
+    ],
+    "answer": "B",
+    "other_info": "172_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_086": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 upwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 2 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_086",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 3 upwards towards face 1\n<image>\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 2 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_086_0.png",
+      "images/folding_nets_vsim_086_1.png",
+      "images/folding_nets_vsim_086_2.png",
+      "images/folding_nets_vsim_086_3.png"
+    ],
+    "answer": "A",
+    "other_info": "238_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_087": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_087",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 4 inwards towards face 1\n<image>\nStep 4: Fold face 5 inwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_087_0.png",
+      "images/folding_nets_vsim_087_1.png",
+      "images/folding_nets_vsim_087_2.png",
+      "images/folding_nets_vsim_087_3.png",
+      "images/folding_nets_vsim_087_4.png"
+    ],
+    "answer": "A",
+    "other_info": "538_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_088": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 6\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 3\n<image>\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_088",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 6\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 3\n<image>\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_088_0.png",
+      "images/folding_nets_vsim_088_1.png",
+      "images/folding_nets_vsim_088_2.png",
+      "images/folding_nets_vsim_088_3.png",
+      "images/folding_nets_vsim_088_4.png"
+    ],
+    "answer": "A",
+    "other_info": "249_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_089": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_089",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_089_0.png",
+      "images/folding_nets_vsim_089_1.png",
+      "images/folding_nets_vsim_089_2.png",
+      "images/folding_nets_vsim_089_3.png"
+    ],
+    "answer": "A",
+    "other_info": "110_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_090": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 2 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 3 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_090",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 2 downwards towards face 6\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 3 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_090_0.png",
+      "images/folding_nets_vsim_090_1.png",
+      "images/folding_nets_vsim_090_2.png",
+      "images/folding_nets_vsim_090_3.png",
+      "images/folding_nets_vsim_090_4.png"
+    ],
+    "answer": "A",
+    "other_info": "429_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_091": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 2 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 3\nStep 4: Fold face 1 upwards towards face 3\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_091",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 2 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 3\nStep 4: Fold face 1 upwards towards face 3\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_091_0.png",
+      "images/folding_nets_vsim_091_1.png",
+      "images/folding_nets_vsim_091_2.png"
+    ],
+    "answer": "A",
+    "other_info": "8_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_092": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_092",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 3 downwards towards face 6\nStep 4: Fold face 2 upwards towards face 5\nStep 5: Fold face 1 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_092_0.png",
+      "images/folding_nets_vsim_092_1.png",
+      "images/folding_nets_vsim_092_2.png"
+    ],
+    "answer": "B",
+    "other_info": "182_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_093": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 upwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_093",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 4 upwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_093_0.png",
+      "images/folding_nets_vsim_093_1.png",
+      "images/folding_nets_vsim_093_2.png",
+      "images/folding_nets_vsim_093_3.png",
+      "images/folding_nets_vsim_093_4.png"
+    ],
+    "answer": "B",
+    "other_info": "491_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_094": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\n<image>\nStep 4: Fold face 3 downwards towards face 6\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_094",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\n<image>\nStep 4: Fold face 3 downwards towards face 6\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_094_0.png",
+      "images/folding_nets_vsim_094_1.png",
+      "images/folding_nets_vsim_094_2.png",
+      "images/folding_nets_vsim_094_3.png"
+    ],
+    "answer": "A",
+    "other_info": "571_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_095": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 1 downwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 2\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_095",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 3\n<image>\nStep 3: Fold face 1 downwards towards face 5\n<image>\nStep 4: Fold face 4 downwards towards face 2\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_095_0.png",
+      "images/folding_nets_vsim_095_1.png",
+      "images/folding_nets_vsim_095_2.png",
+      "images/folding_nets_vsim_095_3.png"
+    ],
+    "answer": "B",
+    "other_info": "204_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_096": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_096",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_096_0.png",
+      "images/folding_nets_vsim_096_1.png",
+      "images/folding_nets_vsim_096_2.png",
+      "images/folding_nets_vsim_096_3.png",
+      "images/folding_nets_vsim_096_4.png"
+    ],
+    "answer": "B",
+    "other_info": "247_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_097": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 4\n<image>\nStep 3: Fold face 6 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 4\nStep 5: Fold face 5 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_097",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 4\n<image>\nStep 3: Fold face 6 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 4\nStep 5: Fold face 5 inwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_097_0.png",
+      "images/folding_nets_vsim_097_1.png",
+      "images/folding_nets_vsim_097_2.png",
+      "images/folding_nets_vsim_097_3.png"
+    ],
+    "answer": "B",
+    "other_info": "322_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_098": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 6\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_098",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 3 downwards towards face 6\n<image>\nStep 4: Fold face 2 downwards towards face 6\nStep 5: Fold face 1 inwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_098_0.png",
+      "images/folding_nets_vsim_098_1.png",
+      "images/folding_nets_vsim_098_2.png",
+      "images/folding_nets_vsim_098_3.png"
+    ],
+    "answer": "B",
+    "other_info": "222_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_099": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\n<image>\nStep 3: Fold face 4 upwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 5 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_099",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\n<image>\nStep 3: Fold face 4 upwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 4\n<image>\nStep 5: Fold face 5 downwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_099_0.png",
+      "images/folding_nets_vsim_099_1.png",
+      "images/folding_nets_vsim_099_2.png",
+      "images/folding_nets_vsim_099_3.png",
+      "images/folding_nets_vsim_099_4.png"
+    ],
+    "answer": "A",
+    "other_info": "51_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_100": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 1\n<image>\nStep 3: Fold face 5 downwards towards face 3\n<image>\nStep 4: Fold face 6 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_100",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 4 inwards towards face 1\n<image>\nStep 3: Fold face 5 downwards towards face 3\n<image>\nStep 4: Fold face 6 downwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_100_0.png",
+      "images/folding_nets_vsim_100_1.png",
+      "images/folding_nets_vsim_100_2.png",
+      "images/folding_nets_vsim_100_3.png",
+      "images/folding_nets_vsim_100_4.png"
+    ],
+    "answer": "B",
+    "other_info": "360_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_101": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 2 downwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_101",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 1\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 2 downwards towards face 6\n<image>\nStep 5: Fold face 5 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_101_0.png",
+      "images/folding_nets_vsim_101_1.png",
+      "images/folding_nets_vsim_101_2.png",
+      "images/folding_nets_vsim_101_3.png",
+      "images/folding_nets_vsim_101_4.png"
+    ],
+    "answer": "B",
+    "other_info": "529_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_102": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_102",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 6 inwards towards face 3\n<image>\nStep 4: Fold face 2 downwards towards face 5\nStep 5: Fold face 1 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_102_0.png",
+      "images/folding_nets_vsim_102_1.png",
+      "images/folding_nets_vsim_102_2.png",
+      "images/folding_nets_vsim_102_3.png"
+    ],
+    "answer": "B",
+    "other_info": "333_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_103": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_103",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 4 downwards towards face 1\nStep 4: Fold face 5 upwards towards face 1\nStep 5: Fold face 6 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_103_0.png",
+      "images/folding_nets_vsim_103_1.png",
+      "images/folding_nets_vsim_103_2.png"
+    ],
+    "answer": "A",
+    "other_info": "376_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_104": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 6\n<image>\nStep 3: Fold face 2 inwards towards face 4\n<image>\nStep 4: Fold face 3 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_104",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 6\n<image>\nStep 3: Fold face 2 inwards towards face 4\n<image>\nStep 4: Fold face 3 downwards towards face 6\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_104_0.png",
+      "images/folding_nets_vsim_104_1.png",
+      "images/folding_nets_vsim_104_2.png",
+      "images/folding_nets_vsim_104_3.png",
+      "images/folding_nets_vsim_104_4.png"
+    ],
+    "answer": "B",
+    "other_info": "85_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_105": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 2 inwards towards face 4\n<image>\nStep 4: Fold face 6 inwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_105",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 3 upwards\n<image>\nStep 2: Fold face 5 upwards towards face 3\n<image>\nStep 3: Fold face 2 inwards towards face 4\n<image>\nStep 4: Fold face 6 inwards towards face 4\n<image>\nStep 5: Fold face 1 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_105_0.png",
+      "images/folding_nets_vsim_105_1.png",
+      "images/folding_nets_vsim_105_2.png",
+      "images/folding_nets_vsim_105_3.png",
+      "images/folding_nets_vsim_105_4.png"
+    ],
+    "answer": "A",
+    "other_info": "54_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_106": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\nStep 4: Fold face 2 downwards towards face 4\nStep 5: Fold face 3 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_106",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\nStep 4: Fold face 2 downwards towards face 4\nStep 5: Fold face 3 upwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_106_0.png",
+      "images/folding_nets_vsim_106_1.png",
+      "images/folding_nets_vsim_106_2.png"
+    ],
+    "answer": "A",
+    "other_info": "158_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_107": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 2 upwards towards face 1\n<image>\nStep 4: Fold face 3 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_107",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 5\n<image>\nStep 3: Fold face 2 upwards towards face 1\n<image>\nStep 4: Fold face 3 downwards towards face 1\n<image>\nStep 5: Fold face 6 downwards towards face 2\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_107_0.png",
+      "images/folding_nets_vsim_107_1.png",
+      "images/folding_nets_vsim_107_2.png",
+      "images/folding_nets_vsim_107_3.png",
+      "images/folding_nets_vsim_107_4.png"
+    ],
+    "answer": "A",
+    "other_info": "492_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_108": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\nStep 3: Fold face 4 upwards towards face 6\nStep 4: Fold face 5 upwards\nStep 5: Fold face 2 downwards\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_108",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\nStep 3: Fold face 4 upwards towards face 6\nStep 4: Fold face 5 upwards\nStep 5: Fold face 2 downwards\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_108_0.png",
+      "images/folding_nets_vsim_108_1.png"
+    ],
+    "answer": "A",
+    "other_info": "223_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_109": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 5 upwards towards face 2\nStep 5: Fold face 6 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_109",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 4 downwards\n<image>\nStep 3: Fold face 1 downwards towards face 3\nStep 4: Fold face 5 upwards towards face 2\nStep 5: Fold face 6 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_109_0.png",
+      "images/folding_nets_vsim_109_1.png",
+      "images/folding_nets_vsim_109_2.png"
+    ],
+    "answer": "B",
+    "other_info": "550_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": true
+  },
+  "folding_nets_vsim_110": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 2\n<image>\nStep 4: Fold face 4 upwards towards face 6\nStep 5: Fold face 3 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_110",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 downwards\n<image>\nStep 3: Fold face 5 downwards towards face 2\n<image>\nStep 4: Fold face 4 upwards towards face 6\nStep 5: Fold face 3 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_110_0.png",
+      "images/folding_nets_vsim_110_1.png",
+      "images/folding_nets_vsim_110_2.png",
+      "images/folding_nets_vsim_110_3.png"
+    ],
+    "answer": "A",
+    "other_info": "77_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_111": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 5\n<image>\nStep 3: Fold face 2 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 5\n<image>\nStep 5: Fold face 3 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_111",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 5\n<image>\nStep 3: Fold face 2 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 5\n<image>\nStep 5: Fold face 3 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_111_0.png",
+      "images/folding_nets_vsim_111_1.png",
+      "images/folding_nets_vsim_111_2.png",
+      "images/folding_nets_vsim_111_3.png",
+      "images/folding_nets_vsim_111_4.png"
+    ],
+    "answer": "A",
+    "other_info": "28_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_112": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 5\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 inwards towards face 5\nStep 5: Fold face 4 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_112",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 6 inwards towards face 5\n<image>\nStep 3: Fold face 3 inwards towards face 5\n<image>\nStep 4: Fold face 2 inwards towards face 5\nStep 5: Fold face 4 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_112_0.png",
+      "images/folding_nets_vsim_112_1.png",
+      "images/folding_nets_vsim_112_2.png",
+      "images/folding_nets_vsim_112_3.png"
+    ],
+    "answer": "B",
+    "other_info": "377_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_113": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_113",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 4 upwards\n<image>\nStep 2: Fold face 3 downwards\n<image>\nStep 3: Fold face 6 downwards towards face 4\n<image>\nStep 4: Fold face 1 downwards towards face 4\n<image>\nStep 5: Fold face 2 downwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_113_0.png",
+      "images/folding_nets_vsim_113_1.png",
+      "images/folding_nets_vsim_113_2.png",
+      "images/folding_nets_vsim_113_3.png",
+      "images/folding_nets_vsim_113_4.png"
+    ],
+    "answer": "A",
+    "other_info": "250_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_114": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 4 upwards towards face 5\n<image>\nStep 5: Fold face 2 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_114",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 5 upwards\n<image>\nStep 3: Fold face 3 inwards towards face 1\n<image>\nStep 4: Fold face 4 upwards towards face 5\n<image>\nStep 5: Fold face 2 downwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_114_0.png",
+      "images/folding_nets_vsim_114_1.png",
+      "images/folding_nets_vsim_114_2.png",
+      "images/folding_nets_vsim_114_3.png",
+      "images/folding_nets_vsim_114_4.png"
+    ],
+    "answer": "B",
+    "other_info": "144_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_115": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_115",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 1 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 3 upwards\n<image>\nStep 3: Fold face 5 downwards towards face 6\n<image>\nStep 4: Fold face 4 downwards towards face 3\nStep 5: Fold face 2 inwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_115_0.png",
+      "images/folding_nets_vsim_115_1.png",
+      "images/folding_nets_vsim_115_2.png",
+      "images/folding_nets_vsim_115_3.png"
+    ],
+    "answer": "A",
+    "other_info": "395_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_116": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 2\n<image>\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_116",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 2 as the base:\nStep 1: Fold face 1 upwards\n<image>\nStep 2: Fold face 3 upwards towards face 1\n<image>\nStep 3: Fold face 5 downwards towards face 1\n<image>\nStep 4: Fold face 6 downwards towards face 2\n<image>\nStep 5: Fold face 4 downwards towards face 6\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_116_0.png",
+      "images/folding_nets_vsim_116_1.png",
+      "images/folding_nets_vsim_116_2.png",
+      "images/folding_nets_vsim_116_3.png",
+      "images/folding_nets_vsim_116_4.png"
+    ],
+    "answer": "A",
+    "other_info": "470_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_117": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 4\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 4\nStep 5: Fold face 5 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_117",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 4 as the base:\nStep 1: Fold face 2 upwards\n<image>\nStep 2: Fold face 3 inwards towards face 4\n<image>\nStep 3: Fold face 6 inwards towards face 4\n<image>\nStep 4: Fold face 1 inwards towards face 4\nStep 5: Fold face 5 upwards towards face 4\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_117_0.png",
+      "images/folding_nets_vsim_117_1.png",
+      "images/folding_nets_vsim_117_2.png",
+      "images/folding_nets_vsim_117_3.png"
+    ],
+    "answer": "B",
+    "other_info": "417_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  },
+  "folding_nets_vsim_118": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 1 downwards towards face 6\n<image>\nStep 4: Fold face 3 inwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_118",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 5 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 4 upwards towards face 6\n<image>\nStep 3: Fold face 1 downwards towards face 6\n<image>\nStep 4: Fold face 3 inwards towards face 1\n<image>\nStep 5: Fold face 2 inwards towards face 1\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_118_0.png",
+      "images/folding_nets_vsim_118_1.png",
+      "images/folding_nets_vsim_118_2.png",
+      "images/folding_nets_vsim_118_3.png",
+      "images/folding_nets_vsim_118_4.png"
+    ],
+    "answer": "A",
+    "other_info": "66_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": true
+  },
+  "folding_nets_vsim_119": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 1 inwards towards face 5\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "A",
+    "qid": "folding_nets_vsim_119",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 6 as the base:\nStep 1: Fold face 5 upwards\n<image>\nStep 2: Fold face 2 inwards towards face 6\n<image>\nStep 3: Fold face 3 inwards towards face 6\n<image>\nStep 4: Fold face 1 inwards towards face 5\nStep 5: Fold face 4 upwards towards face 3\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. no\nB. yes",
+    "images": [
+      "images/folding_nets_vsim_119_0.png",
+      "images/folding_nets_vsim_119_1.png",
+      "images/folding_nets_vsim_119_2.png",
+      "images/folding_nets_vsim_119_3.png"
+    ],
+    "answer": "A",
+    "other_info": "125_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "B.",
+    "extraction": "B",
+    "true_false": false
+  },
+  "folding_nets_vsim_120": {
+    "query": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\n<image>\nStep 3: Fold face 4 upwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 6\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no\n\nAnswer with the option's letter from the given choices and put the letter in one \"\\\\boxed{}\".\n\nPlease ensure that your output only contains the final answer without any additional content (such as intermediate reasoning steps).",
+    "gt_content": "B",
+    "qid": "folding_nets_vsim_120",
+    "question": "Check out a net with 6 faces below:\n<image> Here are the steps to fold the net with face 3 as the base:\nStep 1: Fold face 6 upwards\n<image>\nStep 2: Fold face 1 inwards towards face 3\n<image>\nStep 3: Fold face 4 upwards towards face 1\n<image>\nStep 4: Fold face 5 downwards towards face 6\nStep 5: Fold face 2 upwards towards face 5\nBased on the above steps, can the net be folded to form a cube, yes or no?\n\nA. yes\nB. no",
+    "images": [
+      "images/folding_nets_vsim_120_0.png",
+      "images/folding_nets_vsim_120_1.png",
+      "images/folding_nets_vsim_120_2.png",
+      "images/folding_nets_vsim_120_3.png"
+    ],
+    "answer": "B",
+    "other_info": "32_q+steps+all_intermediate_vis",
+    "category": "folding_nets_VSim",
+    "response": "A.",
+    "extraction": "A",
+    "true_false": false
+  }
+}

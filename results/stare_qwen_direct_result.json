@@ -1,0 +1,14 @@
+{
+  "average": {
+    "accuracy": 0.1598173515981735,
+    "correct": 35,
+    "total": 219
+  },
+  "category": {
+    "2D_text_instruct_VSim": {
+      "accuracy": 0.1598173515981735,
+      "correct": 35,
+      "total": 219
+    }
+  }
+}

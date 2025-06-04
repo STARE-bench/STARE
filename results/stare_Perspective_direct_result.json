@@ -1,0 +1,14 @@
+{
+  "average": {
+    "accuracy": 0.312,
+    "correct": 78,
+    "total": 250
+  },
+  "category": {
+    "Perspective": {
+      "accuracy": 0.312,
+      "correct": 78,
+      "total": 250
+    }
+  }
+}

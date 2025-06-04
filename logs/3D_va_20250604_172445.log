@@ -1,0 +1,48 @@
+phoenix-srun: job 5092577 queued and waiting for resources
+phoenix-srun: job 5092577 has been allocated resources
+phoenix-srun: Job 5092577 scheduled successfully!
+Current QUOTA_TYPE is [reserved], which means the job has occupied quota in RESERVED_TOTAL under your partition.
+Current PHX_PRIORITY is normal
+
+[root] Loading dataset /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl, category: ['3D_va']
+[root] Loading local JSONL file: /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl
+[root] Loading config
+[root] Loading local model /mnt/petrelfs/share_data/songmingyang/model/mm/Qwen2-VL-2B-Instruct
+[2025-06-04 17:25:13,448] [INFO] [real_accelerator.py:158:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[qwen_vl_utils.vision_process] set VIDEO_TOTAL_PIXELS: 90316800
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.18s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.86s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+[root] Model loaded!
+[root] Results already exists.
+[root] Reading /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/results/stare_3D_va_direct.json
+[root] Starting to generate.....
+  0%|          | 0/306 [00:00<?, ?it/s]  0%|          | 1/306 [00:13<1:07:06, 13.20s/it]  1%|          | 2/306 [00:17<39:43,  7.84s/it]  [root] Save results to /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/results/stare_3D_va_direct.json
+  1%|          | 3/306 [00:21<30:42,  6.08s/it]  1%|▏         | 4/306 [00:25<26:05,  5.18s/it]  2%|▏         | 5/306 [00:28<23:20,  4.65s/it]  2%|▏         | 6/306 [00:32<22:29,  4.50s/it]  2%|▏         | 7/306 [00:36<21:09,  4.25s/it]  3%|▎         | 8/306 [00:40<20:59,  4.23s/it]  3%|▎         | 9/306 [00:44<20:01,  4.05s/it]  3%|▎         | 10/306 [00:48<19:16,  3.91s/it][root] Save results to /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/results/stare_3D_va_direct.json
+phoenix-srun: interrupt (one more within 1 sec to abort)
+phoenix-srun: StepId=5092577.0 task 0: running
+phoenix-srun: sending Ctrl-C to StepId=5092577.0
+phoenix-srun: Job step aborted: Waiting up to 2 seconds for job step to finish.
+phoenix-srun: Easily find out why your job was killed by following the link below:
+	https://docs.phoenix.sensetime.com/FAQ/SlurmFAQ/Find-out-why-my-job-was-killed/
+  4%|▎         | 11/306 [00:52<19:27,  3.96s/it]  4%|▍         | 12/306 [00:56<19:13,  3.92s/it]  4%|▍         | 13/306 [00:59<18:53,  3.87s/it]slurmstepd: error: *** STEP 5092577.0 ON SH-IDCA1404-10-140-54-22 CANCELLED AT 2025-06-04T17:26:36 ***
+  4%|▍         | 13/306 [01:02<23:29,  4.81s/it]
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 63.75 GiB is free. Including non-PyTorch memory, this process has 15.57 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 170.34 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+CUDA out of memory. Tried to allocate 127.81 GiB. GPU 0 has a total capacty of 79.32 GiB of which 56.07 GiB is free. Including non-PyTorch memory, this process has 23.25 GiB memory in use. Of the allocated memory 13.77 GiB is allocated by PyTorch, and 7.84 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+Traceback (most recent call last):
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 180, in <module>
+    main()
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 131, in main
+    response = model.get_response(sample)
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/models/qwen.py", line 91, in get_response
+phoenix-srun: error: Timed out waiting for job step to complete

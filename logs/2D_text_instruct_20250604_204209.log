@@ -1,0 +1,39 @@
+phoenix-srun: job 5094597 queued and waiting for resources
+phoenix-srun: job 5094597 has been allocated resources
+phoenix-srun: Job 5094597 scheduled successfully!
+Current QUOTA_TYPE is [reserved], which means the job has occupied quota in RESERVED_TOTAL under your partition.
+Current PHX_PRIORITY is normal
+
+[root] Loading dataset /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl, category: ['2D_text_instruct']
+[root] Loading local JSONL file: /mnt/petrelfs/gujiawei/stare_bench/release_stare/stare.jsonl
+[root] Loading config
+[root] Loading local model /mnt/petrelfs/share_data/songmingyang/model/mm/Qwen2.5-VL-3B-Instruct
+[2025-06-04 20:42:24,162] [INFO] [real_accelerator.py:158:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[qwen_vl_utils.vision_process] set VIDEO_TOTAL_PIXELS: 90316800
+You are using a model of type qwen2_5_vl to instantiate a model of type qwen2_vl. This is not supported for all configurations of models and can yield errors.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:04<?, ?it/s]
+Traceback (most recent call last):
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 180, in <module>
+    main()
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/generate_response.py", line 65, in main
+    model = qwen.Qwen_Model(args.model_path, temperature=args.temperature, max_tokens=args.max_tokens)
+  File "/mnt/petrelfs/gujiawei/stare_bench/release_stare/stare-bench/models/qwen.py", line 73, in __init__
+    self.model = Qwen2VLForConditionalGeneration.from_pretrained(self.model_path, torch_dtype=torch.bfloat16,
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/transformers/modeling_utils.py", line 279, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4399, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4833, in _load_pretrained_model
+    disk_offload_index, cpu_offload_index = _load_state_dict_into_meta_model(
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/transformers/modeling_utils.py", line 824, in _load_state_dict_into_meta_model
+    _load_parameter_into_model(model, param_name, param.to(param_device))
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/transformers/modeling_utils.py", line 712, in _load_parameter_into_model
+    module.load_state_dict({param_type: tensor}, strict=False, assign=True)
+  File "/mnt/petrelfs/gujiawei/anaconda3/envs/llama_sft/lib/python3.10/site-packages/torch/nn/modules/module.py", line 2152, in load_state_dict
+    raise RuntimeError('Error(s) in loading state_dict for {}:\n\t{}'.format(
+RuntimeError: Error(s) in loading state_dict for Linear:
+	size mismatch for bias: copying a param with shape torch.Size([2048]) from checkpoint, the shape in current model is torch.Size([1280]).
+phoenix-srun: error: SH-IDCA1404-10-140-54-22: task 0: Exited with exit code 1
+phoenix-srun: launch/slurm: _step_signal: Terminating StepId=5094597.0

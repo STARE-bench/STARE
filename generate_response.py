@@ -11,7 +11,7 @@ from data_utils import load_yaml, verify_response, build_query
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset_name', type=str, default='luckychao/EMMA')
-    parser.add_argument('--subject', nargs='+', type=str, required=True)
+    parser.add_argument('--category', nargs='+', type=str, required=True)
     parser.add_argument('--split', type=str, default='test')
     parser.add_argument('--strategy', type=str, default='CoT', choices=['CoT', 'Direct'])
     parser.add_argument('--config_path', type=str, default="configs/gpt.yaml")
@@ -30,12 +30,8 @@ def main():
     args = parser.parse_args()
 
     # Load Dataset
-    logging.info(f"Loading dataset {args.dataset_name}, subject: {args.subject}")
+    logging.info(f"Loading dataset {args.dataset_name}, category: {args.category}")
     sub_dataset_list = []
-    # for subj in args.subject:
-    #     sub_dataset = load_dataset(args.dataset_name, subj, split=args.split)
-    #     sub_dataset_list.append(sub_dataset)
-    # dataset = concatenate_datasets(sub_dataset_list)
 
     if args.dataset_name.endswith(".jsonl") and os.path.isfile(args.dataset_name):
         logging.info(f"Loading local JSONL file: {args.dataset_name}")
@@ -44,11 +40,11 @@ def main():
             for line in f:
                 if line.strip():
                     item = json.loads(line)
-                    if item.get('category') in args.subject:
+                    if item.get('category') in args.category:
                         dataset.append(item)
     else:
-        for subj in args.subject:
-            sub_dataset = load_dataset(args.dataset_name, subj, split=args.split)
+        for categ in args.category:
+            sub_dataset = load_dataset(args.dataset_name, categ, split=args.split)
             sub_dataset_list.append(sub_dataset)
         dataset = concatenate_datasets(sub_dataset_list)
 
