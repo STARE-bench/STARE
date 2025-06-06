@@ -8,8 +8,8 @@
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="[https://stare-bench.github.io/](https://arxiv.org/abs/2506.04633)" style="text-decoration: none; font-weight: bold;">[🔗 ArXiv]</a> •
-    <a href="[https://stare-bench.github.io/](https://arxiv.org/pdf/2506.04633)" style="text-decoration: none; font-weight: bold;">[📑 Paper]</a> •
+    <a href="https://arxiv.org/abs/2506.04633" style="text-decoration: none; font-weight: bold;">[🔗 ArXiv]</a> •
+    <a href="https://arxiv.org/pdf/2506.04633" style="text-decoration: none; font-weight: bold;">[📑 Paper]</a> •
     <a href="https://huggingface.co/datasets/kuvvi/STARE" style="text-decoration: none; font-weight: bold;"> [🤗 Data]</a> 
   </p>
 </div>
