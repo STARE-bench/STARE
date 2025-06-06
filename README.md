@@ -8,7 +8,8 @@
 
 <div align="center" style="font-family: Arial, sans-serif;">
   <p>
-    <a href="https://stare-bench.github.io/" style="text-decoration: none; font-weight: bold;">[📖 ArXiv Paper]</a> •
+    <a href="[https://stare-bench.github.io/](https://arxiv.org/abs/2506.04633)" style="text-decoration: none; font-weight: bold;">[🔗 ArXiv]</a> •
+    <a href="[https://stare-bench.github.io/](https://arxiv.org/pdf/2506.04633)" style="text-decoration: none; font-weight: bold;">[📑 Paper]</a> •
     <a href="https://huggingface.co/datasets/kuvvi/STARE" style="text-decoration: none; font-weight: bold;"> [🤗 Data]</a> 
   </p>
 </div>
@@ -112,4 +113,13 @@ This step will compute overall accuracy as well as accuracy for each subject, ca
 If you find our benchmark useful in your research, please consider citing this BibTex:
 
 ```
+@misc{li2025unfoldingspatialcognitionevaluating,
+      title={Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations}, 
+      author={Linjie Li and Mahtab Bigverdi and Jiawei Gu and Zixian Ma and Yinuo Yang and Ziang Li and Yejin Choi and Ranjay Krishna},
+      year={2025},
+      eprint={2506.04633},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.04633}, 
+}
 ```
