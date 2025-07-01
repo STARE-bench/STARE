@@ -11,7 +11,6 @@ from PIL import Image
 from openai import OpenAI
 
 
-IMAGE_ROOT = "/mnt/petrelfs/gujiawei/stare_bench/release_stare/"
 
 def encode_image_to_base64(image):
     buffered = BytesIO()
