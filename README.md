@@ -67,6 +67,7 @@ To set up the environment, it is highly recommended to use Python 3.10.
 git clone https://github.com/STARE-bench/STARE.git
 cd STARE
 pip install -r requirements.txt
+```
 
 ## 📈 Evaluation
 
