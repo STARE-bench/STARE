@@ -63,7 +63,7 @@ The dataset is provided in jsonl format and contains the following attributes:
 ```bash
 git clone https://github.com/STARE-bench/STARE.git
 cd STARE
-git install -e .
+pip install -r requirements.txt
 ```
 
 ## 📈 Evaluation
