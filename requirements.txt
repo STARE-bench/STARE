@@ -106,7 +106,6 @@ latex2sympy2==1.9.1
 latex2sympy2_extended==1.0.6
 liger_kernel==0.5.2
 linkify-it-py==2.0.3
--e git+https://github.com/hiyouga/LLaMA-Factory.git@0f45982bac6b65533a94054ea5f792cb0f9e5a1f#egg=llamafactory
 llvmlite==0.43.0
 lm-format-enforcer==0.10.9
 -e git+https://github.com/EvolvingLMMs-Lab/lmms-eval.git@main#egg=lmms_eval
@@ -207,7 +206,6 @@ pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
 qwen-vl-utils==0.0.9
-r1-v @ file:///mnt/petrelfs/songmingyang/code/reasoning/R1-V/src/r1-v
 ray==2.40.0
 referencing==0.36.1
 regex==2024.11.6
@@ -253,7 +251,6 @@ timm==1.0.14
 tokenizers==0.21.0
 tomli==2.2.1
 tomlkit==0.13.2
--e git+ssh://git@github.com/zhaochen0110/tool-agent.git@5b5fa8c6ab633b375ab29e146a7aec0dcb401b4e#egg=tool_server
 torch==2.6.0
 torchaudio==2.6.0
 torchvision==0.21.0
@@ -282,8 +279,6 @@ wcwidth==0.2.13
 websockets==14.2
 widgetsnbextension==4.0.13
 wrapt==1.17.2
--e git+https://github.com/facebookresearch/xformers.git@c5841688d00358b1ddd583f217231aeced66e01c#egg=xformers
-xgrammar @ file:///mnt/petrelfs/songmingyang/softwares/package/xgrammar/python
 xxhash==3.5.0
 yarl==1.18.3
 yt-dlp==2025.1.26
