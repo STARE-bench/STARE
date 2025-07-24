@@ -236,7 +236,6 @@ sniffio==1.3.1
 sqlitedict==2.1.0
 sse-starlette==2.2.1
 stack-data==0.6.3
--e git+ssh://git@github.com/Kuvvius/stare_open.git@8710dca0304878934e5c757c0ef29b649754f2f1#egg=stare_open
 starlette==0.41.3
 sympy==1.13.1
 tabledata==1.3.4
