@@ -5,9 +5,6 @@ from io import BytesIO
 import time
 import os
 from PIL import Image
-
-
-
 from openai import OpenAI
 
 
@@ -24,18 +21,15 @@ def create_message(sample):
     query = sample['query']
     all_contents = []
 
-    # 拆分文本（以 <image> 分隔）
     split_text = re.split(r"<image>", query)
 
     for i, fragment in enumerate(split_text):
         if fragment.strip():
             all_contents.append({"type": "text", "text": fragment})
 
-        # 每段文字后接一张图（除最后一段）
         if i < len(sample['images']):
             image_entry = sample['images'][i]
             try:
-                # 如果是路径字符串：拼接路径并打开
                 if isinstance(image_entry, str):
                     image_path = os.path.join(IMAGE_ROOT, image_entry)
                     image = Image.open(image_path).convert("RGB")
@@ -53,7 +47,7 @@ def create_message(sample):
                 })
 
             except Exception as e:
-                logging.error(f"❌ Failed to load/encode image at index {i}: {e}")
+                logging.error(f"Failed to load/encode image at index {i}: {e}")
 
     messages = [
         {
@@ -63,34 +57,7 @@ def create_message(sample):
     ]
     return messages
 
-    # for i, fragment in enumerate(split_text):
-    #     if fragment.strip():
-    #         all_contents.append({"type": "text", "text": fragment})
-        
-    #     # 每段文字后可能有一个图像（除了最后一段）
-    #     if i < len(sample['images']):
-    #         image_data = sample['images'][i]
-    #         if image_data:
-    #             img_base64 = encode_image_to_base64(image_data)
-    #             all_contents.append({
-    #                 "type": "image_url",
-    #                 "image_url": {
-    #                     "url": f"data:image/png;base64,{img_base64}"
-    #                 }
-    #             })
-    #         else:
-    #             logging.error(f"Missing image for <image> at position {i}")
 
-    # messages = [
-    #     {
-    #         "role": "user",
-    #         "content": all_contents
-    #     }
-    # ]
-    # return messages
-
-
-# build gpt class
 class GPT_Model:
     def __init__(
             self,
