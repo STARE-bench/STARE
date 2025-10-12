@@ -10,8 +10,6 @@ import torch
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 
 
-IMAGE_ROOT = "/mnt/petrelfs/gujiawei/stare_bench/release_stare/"
-
 
 def encode_image_to_base64(image):
     buffered = BytesIO()
