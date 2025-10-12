@@ -21,14 +21,13 @@ def create_message(sample):
     query = sample['query']
     all_contents = []
 
-    # 按 <image> 分割文本
     split_text = re.split(r"<image>", query)
 
     for i, fragment in enumerate(split_text):
         if fragment.strip():
             all_contents.append({"type": "text", "text": fragment})
 
-        # 插入图像（如果有）
+
         if i < len(sample['images']):
             image_entry = sample['images'][i]
             try:
@@ -47,7 +46,7 @@ def create_message(sample):
                 })
 
             except Exception as e:
-                logging.error(f"❌ Failed to load/encode image at index {i}: {e}")
+                logging.error(f"Failed to load/encode image at index {i}: {e}")
 
     messages = [
         {
